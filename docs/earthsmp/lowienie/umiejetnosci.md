@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Umiejętności 🎇
+# 🎇 Umiejętności
 
 #### Ta strona zawiera informacje o różnych umiejętnościach wędkarskich dostępnych w `/fish skills`
 

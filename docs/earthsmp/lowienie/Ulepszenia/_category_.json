@@ -1,8 +1,8 @@
 {
-    "label": "Ulepszenia 🍥",
-    "position": 7,
-    "link": {
-      "type": "generated-index",
-      "description": "Wszystko o augmentach"
-    }
+  "label": "🍥 Ulepszenia",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Wszystko o augmentach"
   }
+}

@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Powiadomienia 🔔
+# 🔔 Powiadomienia
 
 Chcesz otrzymywać powiadomienia o Change Logach, Konkursach albo Ankietach?
 

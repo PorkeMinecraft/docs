@@ -2,6 +2,6 @@
 sidebar_position: 9
 ---
 
-# CoinFlip 🪙
+# 🪙 CoinFlip
 
 W trakcie przygotowania...

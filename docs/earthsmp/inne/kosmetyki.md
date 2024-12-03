@@ -2,6 +2,6 @@
 sidebar_position: 5
 ---
 
-# Kosmetyki 👺
+# 👺 Kosmetyki
 
 W trakcie przygotowania...

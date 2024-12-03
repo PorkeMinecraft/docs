@@ -2,6 +2,6 @@
 sidebar_position: 4
 ---
 
-# Questy 📋
+# 📋 Questy
 
 W trakcie przygotowania...

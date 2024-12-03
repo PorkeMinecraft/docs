@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# Stacja Patroszenia ⚔
+# ⚔ Stacja Patroszenia
 
 ## Co to jest patroszenie ryb?
 

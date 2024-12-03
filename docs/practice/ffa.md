@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# FFA 👥
+# 👥 FFA
 
 Free for All (FFA) to tryb rozgrywki dostępny na Practice, w którym każdy gracz walczy na własną rękę. Bez drużyn i sojuszy, celem jest przetrwanie jak najdłużej oraz eliminacja jak największej liczby przeciwników na arenie.
 

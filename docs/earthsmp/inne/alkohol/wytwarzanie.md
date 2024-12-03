@@ -2,6 +2,6 @@
 sidebar_position: 2
 ---
 
-# Wytwarzanie 🤫
+# 🤫 Wytwarzanie
 
 W trakcie przygotowania...

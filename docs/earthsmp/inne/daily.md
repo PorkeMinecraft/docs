@@ -2,7 +2,7 @@
 sidebar_position: 12
 ---
 
-# Codzienne Nagrody 🎀
+# 🎁 Codzienne Nagrody
 
 ## Czym są Codzienne Nagrody?
 

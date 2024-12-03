@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Kolejki 🎢
+# 🎢 Kolejki
 
 System kolejek na Practice został zaprojektowany tak, aby gracze mogli łatwo znaleźć odpowiednią rozgrywkę, dostosowaną do swoich preferencji i umiejętności. W zależności od tego, czy chcesz grać dla zabawy, wspinać się w rankingu, czy spróbować sił w specjalnych trybach walki, nasz system kolejek ma coś dla każdego.
 

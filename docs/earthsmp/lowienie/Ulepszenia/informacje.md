@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Informacje Początkowe 📖
+# 📖 Informacje Początkowe
 
 ## Czym są Ulepszenia?
 

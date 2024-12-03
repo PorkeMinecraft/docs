@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Podstawy Łowienia 🎣
+# 🎣 Podstawy Łowienia
 
 ### Podstawy łowienia ryb, twój poziom, kraby, łowienie ryb i torba na ryby.
 

@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Entropia ✨
+# ✨ Entropia
 
 ## Czym jest entropia?
 

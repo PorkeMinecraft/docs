@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Nether 😈
+# 😈 Nether
 
 Nether na naszym EarthSMP to miejsce pełne tajemnic i niebezpieczeństw. Pod powierzchnią czerwonych netherracków kryją się liczne zagrożenia oraz rzadkie skarby, które przyciągają śmiałków pragnących zdobyć potężne wyposażenie.
 

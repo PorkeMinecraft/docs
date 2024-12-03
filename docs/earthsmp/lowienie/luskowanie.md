@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Łuskowanie ⚖
+# ⚖ Łuskowanie
 
 ## Do czego służy Łuskowanie?
 

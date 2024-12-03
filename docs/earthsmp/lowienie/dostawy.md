@@ -2,7 +2,7 @@
 sidebar_position: 8
 ---
 
-# Dostawy 🚌
+# 🚌 Dostawy
 
 ## Jak zarabiać na dostawach?
 

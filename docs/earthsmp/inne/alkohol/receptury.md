@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Receptury ⚗️
+# ⚗️ Receptury
 
 | Receptura         | Składniki                                       | Czas gotowania | Destylacja | Starzenie/Drewno          | Alk    | Efekty |
 | ----------------- | ----------------------------------------------- | -------------- | ---------- | ------------------------- | ------ | ------ |

@@ -2,7 +2,7 @@
 sidebar_position: 11
 ---
 
-# Motyw 🌆
+# 🌆 Motyw
 
 Na MineCube istnieje możliwość zmiany Motywu GUI jakie są domyślnie masz motyw jasny ale możesz zmienić na ciemny.
 

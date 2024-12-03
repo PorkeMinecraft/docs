@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Duele ⚔️
+# ⚔️ Duele
 
 Aby wysłać zaproszenie do Duela wystarczy wpisać `/duel <nick>`
 

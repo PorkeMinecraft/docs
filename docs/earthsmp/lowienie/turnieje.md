@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-# Turnieje 🎖
+# 🎖 Turnieje
 
 ## Czym są turnieje?
 

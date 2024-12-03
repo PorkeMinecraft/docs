@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Strefa AFK 🟡
+# 🟡 Strefa AFK
 
 **Strefa AFK (Away From Keyboard)** to specjalne miejsce na serwerze, które pozwala na bezpieczne odpoczywanie podczas nieaktywności. Oto najważniejsze informacje:
 

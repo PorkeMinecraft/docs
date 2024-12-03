@@ -2,6 +2,6 @@
 sidebar_position: 2
 ---
 
-# Nitro Boosty 🚀
+# 🚀 Nitro Boosty
 
 W trakcie przygotowania...
