@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # 🏠 Jak zacząć Grę?
 
+TODO: Wymaga większej ilości danych.
+
 ## Jak zacząć grę na naszym serwerze EarthSMP?
 
 Po dołączeniu na nasz serwer Earth zalecamy odebrać Zestawy przyszykowane dla Nowych graczy:

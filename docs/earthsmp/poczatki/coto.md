@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # ❓ Co to EarthSMP?
 
+TODO: Wymaga większej ilości danych.
+
 EarthSMP w serwerze MineCube to unikalna wersja trybu Survival, która przenosi rozgrywkę na realistyczną mapę świata. Oferuje ona szeroką gamę dodatkowych funkcji, które wzbogacają doświadczenie gry i pozwalają na bardziej złożone interakcje. Poniżej znajdziesz szczegółowy przewodnik, który pomoże Ci zacząć i czerpać pełnię przyjemności z gry.
 
 ### Mapa świata

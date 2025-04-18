@@ -4,4 +4,4 @@ sidebar_position: 4
 
 # 📋 Questy
 
-W trakcie przygotowania...
+TODO: Wymaga aktualizacji do nowej Edycji.

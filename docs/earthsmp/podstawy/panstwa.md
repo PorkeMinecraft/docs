@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # 🌍 Państwa
 
+TODO: Wymaga aktualizacji do nowej Edycji.
+
 ## Wprowadzenie
 
 Na serwerze EarthSMP, gracze mogą tworzyć i zarządzać swoimi własnymi państwami. Każde państwo może mieć swoje własne prawa, członków i regiony. Dzięki temu systemowi możesz zabezpieczyć swój teren przed innymi graczami, prowadzić dyplomację oraz współpracować z przyjaciółmi w ramach jednego państwa.

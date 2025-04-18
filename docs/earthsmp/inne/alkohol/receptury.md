@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # ⚗️ Receptury
 
+TODO: Wymaga aktualizacji do nowej Edycji.
+
 | Receptura         | Składniki                                       | Czas gotowania | Destylacja | Starzenie/Drewno          | Alk    | Efekty |
 | ----------------- | ----------------------------------------------- | -------------- | ---------- | ------------------------- | ------ | ------ |
 | Piwo              | 6x Pszenica                                     | 8 Minut        | Nie        | 3 Lata <br />Każde        | I      |        |

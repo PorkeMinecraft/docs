@@ -4,4 +4,4 @@ sidebar_position: 5
 
 # 🚗 Pojazdy
 
-W trakcie przygotowania...
+TODO: Wymaga aktualizacji do nowej Edycji.

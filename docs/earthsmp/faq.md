@@ -53,3 +53,9 @@ Tak, możesz otrzymać Klucz za głosowanie na serwer na mclist.
 ### Czy mogę dostać XYZ?
 
 Na naszym serwerze staramy się zapewnić uczciwą rozgrywkę dla wszystkich graczy. Dlatego nie ma możliwości uzyskania specjalnych przedmiotów, rang czy przywilejów na prośbę. Wszystkie nagrody i korzyści są dostępne poprzez grę, osiągnięcia i wspieranie serwera zgodnie z zasadami.
+
+### Mam jakieś dziwne znaczki na ekranie! Pomocy!!!
+
+Zapewne grasz na jakimś innym Launcherze niż Minecraft Launcher, oto kilka rozwiązań dla poszczególnych Launcherów.
+
+TODO: Dodać rozwiązania.

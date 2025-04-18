@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # 🛖 Dom Aukcyjny
 
+TODO: Wymaga aktualizacji do nowej Edycji.
+
 ### Jak sprzedawać w Domu Aukcyjnym?
 
 Weź do łapki przedmiot który chcesz sprzedać wpisz na chacie `/ah sell <cena>` aby wystawić przedmiot na AH.

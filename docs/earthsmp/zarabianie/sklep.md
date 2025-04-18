@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # 🏪 Sklep
 
+TODO: Wymaga aktualizacji do nowej Edycji.
+
 Sklep dostępny jest pod komendą `/sklep`.
 
 **Dostępne Kategorie w sklepie:**

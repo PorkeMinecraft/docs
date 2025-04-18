@@ -4,6 +4,8 @@ sidebar_position: 11
 
 # 🌆 Motyw
 
+TODO: Wymaga aktualizacji do nowej Edycji.
+
 Na MineCube istnieje możliwość zmiany Motywu GUI jakie są domyślnie masz motyw jasny ale możesz zmienić na ciemny.
 
 Sprawdzenie aktualnego motywu:
