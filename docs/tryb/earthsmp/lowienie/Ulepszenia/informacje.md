@@ -15,7 +15,7 @@ Obecnie można je zastosować **tylko na wędce** 🎣.
 
 Ulepszenia można wytworzyć, wrzucając **wymagane przedmioty** do **kotła**, a następnie **uderzając go wędką**.
 
-📘 Szczegółowy przewodnik dotyczący tworzenia znajdziesz [tutaj](/earthsmp/lowienie/Ulepszenia/lista#ulepszenia).
+📘 Szczegółowy przewodnik dotyczący tworzenia znajdziesz [tutaj](lista#%EF%B8%8F-ulepszenia).
 
 ---
 
@@ -33,7 +33,7 @@ Zakładanie ulepszeń na wędkę jest bardzo proste. Wykonaj te kilka kroków:
 
 ## ❌ Jak usunąć ulepszenia?
 
-Usunięcie ulepszeń również jest bardzo proste, jednak **wymaga 25,000 Entropii** 🧬.
+Usunięcie ulepszeń również jest bardzo proste, jednak **wymaga 25,000 Entropii** 🌌.
 
 Aby usunąć ulepszenia z wędki:
 

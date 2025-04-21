@@ -16,7 +16,7 @@ Sprzedaż ryb jest bardzo prosta po prostu zrób `/fish shop` i sprzedaj swoje r
 
 ## 🔮 Entropia
 
-Informacje o **entropii** możesz uzyskać [tutaj](/earthsmp/lowienie/entropia) 🌌
+Informacje o **entropii** możesz uzyskać [tutaj](entropia) 🌌
 
 ## 📈 Poziom łowienia
 
@@ -35,14 +35,14 @@ Twój poziom połowu wpływa na różne aspekty, takie jak:
 
 - Możliwość tworzenia **ulepszeń** (różnią się w zależności od ulepszeń)
 - Odblokowanie i zbudowanie **totemu wędkarskiego** (Wymagany poziom 20)
-- Zdobywanie **punktów umiejętności** i ulepszanie/odblokowywanie [umiejętności](/earthsmp/lowienie/umiejetnosci) (1 punkt za możliwość ulepszenia, 15 za jednorazowe odblokowanie)
+- Zdobywanie **punktów umiejętności** i ulepszanie/odblokowywanie [umiejętności](umiejetnosci) (1 punkt za możliwość ulepszenia, 15 za jednorazowe odblokowanie)
 
 ## ⚡ Jak zdobywać więcej XP?
 
 Istnieje kilka sposobów, aby zwiększyć przyrost XP:
 
-- [**Sage Augment**](/earthsmp/lowienie/Ulepszenia/lista#sage)
-- [**Ulepszenie w totemie "Doświadczony rybak"**](/earthsmp/lowienie/totemy#ulepszenia-totemu-1)
+- [**Ulepszenie Sage**](ulepszenia/lista#-sage)
+- [**Ulepszenie w totemie "Doświadczony rybak"**](totemy#-ulepszenia-totemu-entropia)
 
 Możesz sprawdzić swój poziom w dowolnym momencie, korzystając ze statystyk `/fish stats`. 📊
 
@@ -63,7 +63,7 @@ Jeśli 2-4 gracze zbiorą się na jednym łowisku, aktywowany zostanie **booster
 
 ## 🎒 Plecak Wędkarza
 
-Plecak wędkarza to osobne miejsce do przechowywania ryb. Możesz zostawić je w plecaku, aby później oddać je do [**dostaw**](/earthsmp/lowienie/dostawy). Aby otworzyć plecak, użyj komendy `/fish bag`. 🐠
+Plecak wędkarza to osobne miejsce do przechowywania ryb. Możesz zostawić je w plecaku, aby później oddać je do [**dostaw**](dostawy). Aby otworzyć plecak, użyj komendy `/fish bag`. 🐠
 
 ## 📦 Skrzynia Rybaka
 
@@ -77,4 +77,4 @@ Na serwerze znajduje się **Skrzynia Rybaka**, w której możesz zdobywać uleps
 Masz dwa sposoby:
 
 1.  **W strefie AFK** (`/warp strefa-afk`) znajdziesz skrzynię z kluczem. 🔑
-2.  [**Turnieje**](/earthsmp/lowienie/turnieje) - pierwsza osoba wygrywa klucz rybaka.
+2.  [**Turnieje**](turnieje) - pierwsza osoba wygrywa klucz rybaka.

@@ -4,7 +4,7 @@ Najczęściej zadawane Pytania:
 
 ### 🌍 Gdzie znajdę mapę EarthSMP?
 
-Mapę znajdziesz na: [https://mapa.minecube.pl](https://mapa.minecube.pl)
+Mapę znajdziesz na: [mapa.minecube.pl](https://mapa.minecube.pl)
 
 ### ❓ Kiedy dodacie XYZ?
 
@@ -23,11 +23,11 @@ Aby stworzyć swoje własne państwo, użyj komendy:
 /lands create <nazwa>
 ```
 
-Więcej informacji znajdziesz w naszym poradniku [Państwa](/earthsmp/podstawy/panstwa).
+Więcej informacji znajdziesz w naszym poradniku [Państwa](podstawy/panstwa).
 
 ### 🔒 Jak mogę zabezpieczyć mój teren przed innymi graczami?
 
-Tworząc państwo, automatycznie zabezpieczasz swój teren. Możesz również tworzyć regiony i zarządzać uprawnieniami dla członków państwa. Więcej informacji znajdziesz w naszym poradniku [Państwa](/earthsmp/podstawy/panstwa).
+Tworząc państwo, automatycznie zabezpieczasz swój teren. Możesz również tworzyć regiony i zarządzać uprawnieniami dla członków państwa. Więcej informacji znajdziesz w naszym poradniku [Państwa](podstawy/panstwa).
 
 ### 🐞 Jak mogę zgłosić problem lub błąd na serwerze?
 

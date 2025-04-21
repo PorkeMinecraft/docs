@@ -36,7 +36,7 @@ Możesz rozwinąć pięć **specjalnych ulepszeń**, które ułatwią realizacj�
 | 🧺 **Zwiększona pojemność**   | Pozwala przechowywać więcej dostaw jednocześnie               |
 | ⚡ **Podkręcony**             | Skraca czas potrzebny na realizację dostaw                    |
 | 🧠 **Ekspert w dostarczaniu** | Zmniejsza liczbę wymaganych ryb do pojedynczej dostawy        |
-| 💸 **Zwiększona płaca**       | Zwiększa ilość 🧬 Entropii otrzymywanej za wykonanie dostawy  |
+| 💸 **Zwiększona płaca**       | Zwiększa ilość 🌌 Entropii otrzymywanej za wykonanie dostawy  |
 | 🍀 **Szczęśliwy traf**        | Zmniejsza ilość ryb potrzebnych do odblokowania nowej dostawy |
 
 ---

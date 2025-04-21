@@ -10,10 +10,10 @@ Zdobycie Totemu Wędkarskiego jest proste – wystarczy zbudować strukturę i z
 
 ### 🧾 Wymagane przedmioty
 
-- 🐬 16 [Ogonów Delfina](/earthsmp/lowienie/podstawy#kraby)
-- 🦀 16 [Pazurów Kraba](/earthsmp/lowienie/podstawy#kraby)
-- 🐚 16 [Łusek Kraba](/earthsmp/lowienie/podstawy#kraby)
-- 🦑 16 [Macek Kałamarnicy](/earthsmp/lowienie/podstawy#kraby)
+- 🐬 16 [Ogonów Delfina](podstawy#-kraby)
+- 🦀 16 [Pazurów Kraba](podstawy#-kraby)
+- 🐚 16 [Łusek Kraba](podstawy#-kraby)
+- 🦑 16 [Macek Kałamarnicy](podstawy#-kraby)
 - 🐟 6 dowolnych **platynowych ryb**
 
 :::danger Wymagany poziom

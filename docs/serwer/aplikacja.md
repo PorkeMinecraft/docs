@@ -1,34 +1,48 @@
 # 📱 Aplikacja Mobilna
 
 :::danger
-**Aplikacja jest jeszcze w fazie tworzenia.**
+🚧 **Aplikacja jest jeszcze w fazie tworzenia!**
 :::
 
-MineCube App to oficjalna aplikacja mobilna serwera Minecraft MineCube, zaprojektowana, aby ułatwić graczom interakcję z serwerem oraz zapewnić najlepsze wrażenia użytkownikom.
+**MineCube App** to oficjalna aplikacja mobilna serwera Minecraft **MineCube**, zaprojektowana z myślą o wygodzie graczy 🎮  
+Dzięki niej możesz być zawsze na bieżąco — nawet **poza grą**! 🛰️
 
-### ⚙️ Funkcje Aplikacji
+## ⚙️ Funkcje Aplikacji
 
-- Podgląd statystyk w czasie rzeczywistym.
-- Aktualności i ogłoszenia z serwera.
-- Powiadomienia o eventach, ważnych zmianach oraz zdarzeniach na serwerze.
-- System czatu umożliwiający komunikację z graczami online.
+📊 **Statystyki w czasie rzeczywistym** – sprawdź swój postęp i dane gracza bez logowania się na serwer  
+📢 **Aktualności i ogłoszenia** – ważne informacje zawsze pod ręką  
+🔔 **Powiadomienia push** – eventy, aktualizacje, komunikaty serwerowe  
+💬 **Czat** – komunikuj się z innymi graczami będąc offline
 
 :::info
-Funkcje aplikacji mogą zostać zmienione do czasu oficjalnego wydania.
+🧪 Funkcje aplikacji mogą ulec zmianie przed oficjalnym wydaniem.
 :::
 
-### 📥 Jak pobrać?
+## 📥 Jak pobrać?
 
-Aplikację można pobrać ze sklepów Google Play oraz App Store.
+Aplikacja będzie dostępna w:
+
+- Google Play (Android) 🤖
+- App Store (iOS) 🍎
 
 :::warning
-Aplikacja nie została jeszcze wydana.
+❗ Aplikacja nie została jeszcze wydana.  
+Linki do pobrania pojawią się tutaj w dniu premiery.
 :::
 
-- Linki do pobrania aplikacji pojawią się, gdy aplikacja zostanie oficjalnie wydana.
+## 🔐 Jak się zalogować?
 
-### 🔐 Jak się zalogować?
+1. Otwórz aplikację i kliknij **„Zaloguj”**
+2. Wejdź na serwer Minecraft i wpisz komendę:
 
-1. Naciśnij "Zaloguj".
-2. Na serwerze Minecraft wpisz `/aplikacja zaloguj` i otrzymasz 6-cyfrowy kod.
-3. Wpisz kod na ekranie logowania i potwierdź klikając "Zaloguj".
+```
+/aplikacja zaloguj
+```
+
+3. Otrzymasz **6-cyfrowy kod**, który wpisujesz w aplikacji
+4. Klikasz **„Zaloguj”** i gotowe! ✅
+
+---
+
+> 📲 Aplikacja powstała z myślą o Tobie – graczu.  
+> Dziękujemy za każde wsparcie i cierpliwość w trakcie prac nad jej rozwojem! 💙
