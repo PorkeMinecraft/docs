@@ -4,25 +4,30 @@ sidebar_position: 12
 
 # 🎁 Codzienne Nagrody
 
-## Czym są Codzienne Nagrody?
+## 🧐 Czym są Codzienne Nagrody?
 
-Codzienne Nagrody to sposób, w jaki nasz serwer nagradza Ciebie za regularne logowanie się do gry. Każdego dnia, gdy wejdziesz na serwer, możesz odebrać specjalne nagrody, które pomogą Ci w Twoich przygodach na EarthSMP!
+Codzienne Nagrody to sposób, w jaki nasz serwer nagradza Cię za regularne logowanie się do gry. Każdego dnia, gdy wejdziesz na serwer, możesz odebrać specjalne nagrody, które pomogą Ci w Twoich przygodach na **EarthSMP**! 🌍✨
 
-## Jak odebrać swoją nagrodę?
+## 💡 Jak odebrać swoją nagrodę?
 
-To bardzo proste! Wystarczy, że po zalogowaniu się na serwer wpiszesz komendę `/daily`. Otworzy się interfejs, w którym odbierzesz swoją codzienną nagrodę.
+To bardzo proste! Wystarczy, że po zalogowaniu się na serwer:
 
-## Co można otrzymać?
+1. Wpisz komendę `/daily` 📝
+2. Otworzy się interfejs, w którym odbierzesz swoją codzienną nagrodę. 🎉
 
-Nagrody są różnorodne i zmieniają się każdego dnia. Możesz otrzymać:
+## 🎉 Co można otrzymać?
 
-- Cenne przedmioty jak diamenty czy enchantowane narzędzia
-- Walutę serwerową, którą wykorzystasz w sklepie serwerowym
-- Specjalne klucze do skrzyń z rzadkimi przedmiotami
-- I wiele innych niespodzianek!
+Nagrody są **różnorodne** i zmieniają się każdego dnia. Możesz otrzymać:
 
-## Dlaczego warto?
+- Cenne przedmioty, takie jak **diamenty** 💎 czy **enchantowane narzędzia** ⚒️
+- **Walutę serwerową** 💰, którą wykorzystasz w sklepie serwerowym 🏪
+- **Specjalne klucze** do skrzyń z rzadkimi przedmiotami 🔑
+- I wiele innych **niespodzianek**! 🎁
 
-Regularne logowanie się i odbieranie codziennych nagród to świetny sposób na zdobycie dodatkowych przedmiotów, które ułatwią Ci grę. Poza tym, to doskonała motywacja, by codziennie spędzać czas na serwerze i nie przegapić żadnej z wyjątkowych nagród.
+## 🎯 Dlaczego warto?
 
-Nie czekaj! Zaloguj się już dziś i sprawdź, co czeka na Ciebie w dzisiejszej nagrodzie!
+Regularne logowanie się i odbieranie codziennych nagród to świetny sposób na zdobycie **dodatkowych przedmiotów** 🛠️, które ułatwią Ci grę. Poza tym, to doskonała motywacja 💪, by codziennie spędzać czas na serwerze i nie przegapić żadnej z **wyjątkowych nagród**! 🎊
+
+---
+
+**Nie czekaj!** Zaloguj się już dziś i sprawdź, co czeka na Ciebie w **dzisiejszej nagrodzie**! 🎉🎁

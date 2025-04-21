@@ -4,14 +4,28 @@ sidebar_position: 3
 
 # 🗺️ Ukrycie na Mapie
 
-### Jak ukryć się na Mapie Online?
+## 👤 Jak ukryć się na Mapie Online?
 
-Wystarczy że wpiszesz polecenie `/dynmap hide`.
+Aby ukryć się na mapie, wystarczy, że wpiszesz polecenie:
 
-### Jak pokazać się na Mapie Online?
+```
+/map hide
+```
 
-Wystarcz że wpiszesz polecenie `/dynmap show`.
+---
 
-Mapę EarthSMP znajdziesz Tutaj:
+## 👀 Jak pokazać się na Mapie Online?
 
-[**Mapa EarthSMP**](https://mapa.minecube.pl)
+Aby ponownie pokazać się na mapie, wystarczy wpisać polecenie:
+
+```
+/map show
+```
+
+---
+
+## 🌍 Mapa EarthSMP
+
+Mapa EarthSMP dostępna jest pod linkiem:
+
+[**mapa.minecube.pl**](https://mapa.minecube.pl)

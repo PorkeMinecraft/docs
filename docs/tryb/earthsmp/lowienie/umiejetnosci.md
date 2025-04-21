@@ -4,49 +4,45 @@ sidebar_position: 3
 
 # 🎇 Umiejętności
 
-#### Ta strona zawiera informacje o różnych umiejętnościach wędkarskich dostępnych w `/fish skills`
+**Ta strona zawiera informacje o różnych umiejętnościach wędkarskich dostępnych w `/fish skills`.**
 
-## Czym są umiejętności?
+## 🤔 Czym są umiejętności?
 
-Na minecube jest dostępnych 10 różnych umiejętności które możesz ulepszyć.
-Aby ulepszyć umiejętności, potrzebujesz punktów umiejętności. Za każdym razem, gdy zdobywasz kolejny poziom w łowieniu zdobywasz jeden punkt umiejętności.
+Na **MineCube** dostępnych jest 10 różnych umiejętności, które możesz ulepszać. Aby ulepszyć umiejętności, potrzebujesz punktów umiejętności. Za każdym razem, gdy zdobywasz kolejny poziom w łowieniu, zdobywasz **jeden punkt umiejętności**. 💡
 
 ## Rodzaje umiejętności
 
-Obecnie istnieją dwa różne typy umiejętności, a każda z nich ma inny wpływ.
+Obecnie istnieją dwa różne typy umiejętności, a każda z nich ma inny wpływ:
 
-#### Ulepszenia Umiejętności
+### 🔧 Ulepszenia Umiejętności
 
-Obecnie dostępnych jest 10 umiejętnośći, które można ulepszyć
+Obecnie dostępnych jest 10 umiejętności, które można ulepszyć. 👇
 ![Ulepszenia](./assets/umiejetnosci.png)
 
-#### Umiejętności zakupu jednorazowego
+### 🛒 Umiejętności Zakupu Jednorazowego
 
-Umiejętności te działają raczej jako efekty „pasywne” niż jako umiejętność.
-Ich zakup kosztuje stałą liczbę punktów umiejętności (zwykle 10). Po zakupie umiejętność ta będzie dla Ciebie zawsze aktywna.
+Umiejętności te działają raczej jako efekty „pasywne” niż jako aktywne umiejętności. Ich zakup kosztuje stałą liczbę punktów umiejętności (zwykle **10**). Po zakupie umiejętność ta będzie zawsze aktywna.
 
-Jednakże te umiejętności skalują się wraz z Twoim poziomem połowu. Oznacza to, że im wyższy poziom wędkowania posiadasz, tym lepiej będą się sprawować te umiejętności.
+Te umiejętności skalują się wraz z Twoim poziomem łowienia. Oznacza to, że im wyższy poziom wędkowania posiadasz, tym lepiej będą się sprawować te umiejętności. 🌱
 
-Aby zmaksymalizować wykorzystanie tych umiejętności - spróbuj zdobyć jak najwięcej poziomów
+Aby zmaksymalizować wykorzystanie tych umiejętności - spróbuj zdobyć jak najwięcej poziomów! 🚀
 
-## Jakie umiejętności ustnieją?
+## 🏆 Jakie umiejętności ustnieją?
 
-#### Poniżej znajduje się lista wszystkich różnych umiejętności.
+### Umiejętności, które można ulepszać:
 
-### Umiejętności, które można ulepszać.
+| 📝 Nazwa                  | 💬 Opis                                                |
+| ------------------------- | ------------------------------------------------------ |
+| 🎣 **Lepsze patroszenie** | Daje Ci więcej punktów **entropii** z patroszenia ryb. |
+| 🍀 **Szczęście połowu**   | Daje więcej punktów **entropii** od połowu ryb.        |
+| 🛠 **Mistrz ulepszeń**     | Obniża koszty tworzenia ulepszeń wędkarskich.          |
+| ⏳ **Lider totemu**       | Zmniejsza czas odnowienia totemu podczas łowienia ryb. |
 
-| Nazwa              | Opis                                                                                |
-| ------------------ | ----------------------------------------------------------------------------------- |
-| Lepsze patroszenie | Ta umiejętność daje ci więcej punktów entropi z patroszenia ryb.                    |
-| Szczęście połowu   | Ta umiejętność daje więcej punktów entropi od połowu ryb                            |
-| Mistrz ulepszeń    | Ta umiejętność obniża koszty aby stworzyć ulepszenia wędkarskie                     |
-| Lider totemu       | Ta umiejętność zmniejsza pozostały czas odnowienia na totemie podczas łowienia ryb. |
+### Umiejętności, które można kupić jednorazowo:
 
-### Umiejętności, które można kupić jednorazowo.
-
-| Nazwa                | Opis                                                                                                                                                                   |
-| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Boski sąd            | Ta umiejętność daje szansę na przywołani boskiego urzedzenia, które powoduje **tsunami**. Wędkowanie w tsunami podwaja ilość ryb złapanych w jego promieniu działania. |
-| Plemienny krzyk      | Ta umiejętność daje graczom w pobliżu twojego totemu rybackiego procent z całkowitych efektów.                                                                         |
-| Combo rybak          | Ta umiejętność zwiększa kombinację, która zwiększa. Twoja szansę na złapanie rzadszych ryb. Im wyższy poziom umiejętności tym wyższa możliwa kombinacja osiągnięć.     |
-| Wzbogacająca infuzja | Ta umiejętność ma szansę na zwrot kosztów używanych w tworzeniu ulepszeń.                                                                                              |
+| 📝 Nazwa                    | 💬 Opis                                                                                                                                            |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ⚡ **Boski sąd**            | Daje szansę na przywołanie boskiego urzędzenia, które powoduje **tsunami**. Wędkowanie w tsunami podwaja liczbę ryb złapanych w jego promieniu. 🌊 |
+| 🗣 **Plemienny krzyk**       | Daje graczom w pobliżu Twojego totemu rybackiego procent z całkowitych efektów. 🐟                                                                 |
+| 💥 **Combo rybak**          | Zwiększa Twoje szanse na złapanie rzadszych ryb. Im wyższy poziom umiejętności, tym wyższa możliwa kombinacja osiągnięć. 🔝                        |
+| 🧪 **Wzbogacająca infuzja** | Ma szansę na zwrot kosztów używanych w tworzeniu ulepszeń. 🔄                                                                                      |

@@ -4,8 +4,14 @@ sidebar_position: 4
 
 # 📩 Skrzynki Pocztowe
 
-Skrzynki Pocztowe mogą słóżyć do wysyłania listów lub prezentów oraz ich odbierania.
+Skrzynki Pocztowe mogą służyć do wysyłania listów lub prezentów oraz ich odbierania.
 
-<!-- TODO: Zaaktualizować grafike, lub usunąć jeśli zostanie usunięte. -->
+---
+
+### 🛠️ Crafting Skrzynki
+
+Skrzynki pocztowe można stworzyć za pomocą poniższej receptury:
+
+<!-- TODO: Zaaktualizować grafike -->
 
 ![Crafting Skrzynki](./assets/skrzynka.png)

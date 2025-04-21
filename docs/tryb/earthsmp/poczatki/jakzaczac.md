@@ -26,7 +26,7 @@ Na spawnie spotkasz wielu NPC-ów — najważniejsi znajdują się w samym centr
 - **🛒 NPC Sklep**  
   Kliknij, by otworzyć serwerowy sklep. Szczegóły dotyczące zakupów znajdziesz niżej.
 
-Po przeteleportowaniu się za pomocą komendy **`/rtp`** lub przez **NPC Losowej Teleportacji**, możesz zacząć swoją przygodę! Warto wkopać się w ziemię i eksplorować jaskinie — to świetny sposób na zdobycie pierwszych pieniędzy. Na start szczególnie opłacalna będzie **praca górnika**. ⛏️
+Po przeteleportowaniu się za pomocą komendy **`/rtp`** lub przez **NPC Losowej Teleportacji**, możesz zacząć swoją przygodę! 🌍 Warto wkopać się w ziemię i eksplorować jaskinie — to świetny sposób na zdobycie pierwszych pieniędzy 💰. Na start szczególnie opłacalna będzie **praca górnika** ⛏️.
 
 ---
 
@@ -38,7 +38,7 @@ _Wkrótce dostępne..._
 
 ## 🗳️ Darmowy klucz do skrzyni Vote
 
-Na naszym serwerze znajdziesz **skrzynię Vote**, do której klucz możesz zdobyć całkowicie **za darmo**!
+Na naszym serwerze znajdziesz **skrzynię Vote**, do której klucz możesz zdobyć całkowicie **za darmo**! 🎁
 
 Wystarczy, że polubisz nasz serwer na [MCList.pl](https://www.mclist.pl/serwer/minecube.pl), a następnie wpiszesz komendę **`/mclist`**, by automatycznie otrzymać **klucz do skrzyni Vote**.
 
@@ -51,7 +51,7 @@ Masz problem na serwerze? Użyj komendy:
 
 Gdyby nikt z administracji nie był dostępny w danym momencie — zawsze możesz:
 
-- zapytać innych graczy na czacie,
+- zapytać innych graczy na czacie 💬,
 - napisać **ticket** na naszym [Discordzie](https://discord.com/invite/kXdJe7uEbP).
 
 **Pamiętaj!** Nie gryziemy 😄 — jesteśmy tu, żeby pomagać!

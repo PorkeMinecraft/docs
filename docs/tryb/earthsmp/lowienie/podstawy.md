@@ -6,77 +6,75 @@ sidebar_position: 1
 
 <!-- TODO: Cała kategoria łowienie wymaga aktualizacji, zmiana grafik, aktualizacja treści. -->
 
-### Podstawy łowienia ryb, twój poziom, kraby, łowienie ryb i torba na ryby.
+## 🔹 Łowienie
 
-## Łowienie
+Łowienie **niestandardowych ryb** jest łatwe! Wystarczy wrzucić wędkę do zbiornika z wodą i poczekać, aż ryba zacznie brać. 🎣🐟
 
-Łowienie niestandardowych ryb jest łatwe!!! Wystarczy wrzucić wędkę do zbiornika z wodą i poczekać, aż ryba zacznie brać.
+## 🛍️ Sprzedaż Ryb
 
-## Sprzedaż Ryb
+Sprzedaż ryb jest bardzo prosta po prostu zrób `/fish shop` i sprzedaj swoje ryby! 💸
 
-Sprzedaż ryb jest bardzo prosta po prostu zrób `/Fish shop` i sprzedaj swoje ryby!
+## 🔮 Entropia
 
-## Entropia
+Informacje o **entropii** możesz uzyskać [tutaj](/earthsmp/lowienie/entropia) 🌌
 
-Informacje o entropiI możesz uzyskać [tutaj](/earthsmp/lowienie/entropia)
+## 📈 Poziom łowienia
 
-## Poziom łowienia
+Twój poziom łowienia jest bardzo ważny! Możesz zdobywać **XP** za łapanie niestandardowych ryb. Poniżej znajduje się tabela z domyślnym XP dla każdej ryby:
 
-Twój poziom jest bardzo ważny. Możesz zdobyć XP do swojego poziomu za łapanie niestandardowych ryb. Poniżej znajduje się tabela z domyślnym XP dla każdej ryby.
+| 🏅 Poziom     | XP   |
+| ------------- | ---- |
+| 🟤 Brązowe    | 75   |
+| ⚪ Srebrne    | 150  |
+| 🟡 Złote      | 300  |
+| 🔷 Diamentowe | 700  |
+| 🔱 Platynowe  | 1900 |
+| 🌟 Mityczne   | 6000 |
 
-| Poziom     | XP   |
-| ---------- | ---- |
-| Brązowe    | 75   |
-| Srebrne    | 150  |
-| Złote      | 300  |
-| Diamentowe | 700  |
-| Platynowe  | 1900 |
-| Mityczne   | 6000 |
+Twój poziom połowu wpływa na różne aspekty, takie jak:
 
-Twój poziom połowu jest używany w różnych zastosowaniach takich jak:
+- Możliwość tworzenia **ulepszeń** (różnią się w zależności od ulepszeń)
+- Odblokowanie i zbudowanie **totemu wędkarskiego** (Wymagany poziom 20)
+- Zdobywanie **punktów umiejętności** i ulepszanie/odblokowywanie [umiejętności](/earthsmp/lowienie/umiejetnosci) (1 punkt za możliwość ulepszenia, 15 za jednorazowe odblokowanie)
 
-- Możliwość tworzenia ulepszeń (różni się w zależności od ulepszeń)
-- Odblokowanie i zbudowanie totemu wędkarskiego (Wymagany poziom 20)
-- Zdobywanie punktów umiejętności i ulepszanie/odblokowywanie [umiejętności](/earthsmp/lowienie/umiejetnosci) (1 punkt za możliwość ulepszenia, 15 za jednorazowe odblokowanie)
+## ⚡ Jak zdobywać więcej XP?
 
-## Zdobywanie większej liczby XP wędkarstwa
+Istnieje kilka sposobów, aby zwiększyć przyrost XP:
 
-Istnieje kilka sposobów na maksymalizacje przyrostu XP z różnych źródeł. Są one wymienione poniżej:
+- [**Sage Augment**](/earthsmp/lowienie/Ulepszenia/lista#sage)
+- [**Ulepszenie w totemie "Doświadczony rybak"**](/earthsmp/lowienie/totemy#ulepszenia-totemu-1)
 
-- [Sage Augment](/earthsmp/lowienie/Ulepszenia/lista#sage)
-- [Ulepszenie w totemie "Doświadczony rybak"](/earthsmp/lowienie/totemy#ulepszenia-totemu-1)
+Możesz sprawdzić swój poziom w dowolnym momencie, korzystając ze statystyk `/fish stats`. 📊
 
-:::info
-Możesz sprawdzić swój poziom w dowolnym momencie, korzystając ze statystyk `/fish stats`.
-:::
+## 🦀 Kraby
 
-## Kraby
+Kraby to niestandardowe stwory, z których można uzyskać:
 
-Są to niestandardowe stwory z których można uzyskać:
+| 🪶 Przedmiot         | 🔑 Jak to zdobyć            |
+| -------------------- | --------------------------- |
+| 🦵 Pazur Kraba       | Zabijając Kraba (20%)       |
+| 🦀 Łuska Kraba       | Zabijając Kraba (20%)       |
+| 🐬 Ogon Delfina      | Zabijając Delfina (80%)     |
+| 🦑 Macka kałamarnicy | Zabijając Kałamarnice (10%) |
 
-| Przedmiot         | Jak to zdobyć               |
-| ----------------- | --------------------------- |
-| Pazur Kraba       | Zabijając Kraba (20%)       |
-| Łuska Kraba       | Zabijając Kraba (20%)       |
-| Ogon Delfina      | Zabijając Delfina (80%)     |
-| Macka kałamarnicy | Zabijając Kałamarnice (10%) |
+## 👥 Wspólne wędkowanie
 
-## Wędkowanie wspólne
+Jeśli 2-4 gracze zbiorą się na jednym łowisku, aktywowany zostanie **booster** za wspólne wędkowanie! 🚀
 
-Gdy zbierze się od 2-4 graczy na jednym łowisku zostanie dodany booster za wspólne wędkowanie.
+## 🎒 Plecak Wędkarza
 
-## Plecak Wędkarza
+Plecak wędkarza to osobne miejsce do przechowywania ryb. Możesz zostawić je w plecaku, aby później oddać je do [**dostaw**](/earthsmp/lowienie/dostawy). Aby otworzyć plecak, użyj komendy `/fish bag`. 🐠
 
-Jest to osobne miejsce do gromadzenia rybek. Możesz zostawiać rybki aby następnie oddawać je do [dostaw](/earthsmp/lowienie/dostawy). Plecak możesz otworzyć komendą `/fish bag`.
+## 📦 Skrzynia Rybaka
 
-## Skrzynia Rybaka
-
-Na serwerze jest skrzynia w której można zdobywać ulepszenia, entropie i klucze. Gdy użyjesz komendy `/spawn` i podejdziesz na wprost zobaczysz daną skrzynię:
+Na serwerze znajduje się **Skrzynia Rybaka**, w której możesz zdobywać ulepszenia, entropię i klucze. Aby ją znaleźć, użyj komendy `/spawn` i idź w stronę skrzyni:
 
 ![skrzynie](./assets/skrzynia.png)
 ![skrzynie2](./assets/skrzynia2.png)
 
-### Aby zdobyć klucz masz 2 sposoby:
+### 🗝️ Jak zdobyć klucz?
 
-- Gdy pójdziesz na strefę afk `/warp strefa-afk` jest skrzynia w której można uzyskać klucz.
-- Podczas [Turniejów](/earthsmp/lowienie/turnieje) pierwsze miejsce wygrywa klucz rybaka.
+Masz dwa sposoby:
+
+1.  **W strefie AFK** (`/warp strefa-afk`) znajdziesz skrzynię z kluczem. 🔑
+2.  [**Turnieje**](/earthsmp/lowienie/turnieje) - pierwsza osoba wygrywa klucz rybaka.

@@ -4,10 +4,28 @@ sidebar_position: 2
 
 # ⛓️‍💥 Połączenie Discord
 
-### Łączenie Konta Minecraft - Discord
+## 🔗 Łączenie Konta Minecraft z Discord
 
-1. Napisz na czacie `/discord link`.
+Aby połączyć swoje konto Minecraft z Discordem, wykonaj następujące kroki:
 
-2. Otrzymany Kod wyślij do Bota "MineCube × EarthSMP" na naszym [Discordzie](https://discord.gg/minecube) w wiadomości prywatnej.
+---
 
-3. Gotowe! Konto połączone!
+### 1️⃣ Napisz na czacie Minecraft:
+
+```
+/discord link
+```
+
+---
+
+### 2️⃣ Wyślij otrzymany kod
+
+Po otrzymaniu kodu, wyślij go do Bota "MineCube × EarthSMP" na naszym [Discordzie](https://discord.gg/minecube) w wiadomości prywatnej.
+
+---
+
+### 3️⃣ Gotowe! ✅
+
+Po wykonaniu powyższych kroków, Twoje konto Minecraft zostanie połączone z Twoim kontem na Discordzie!
+
+---
