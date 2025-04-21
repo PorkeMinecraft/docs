@@ -2,28 +2,31 @@
 sidebar_position: 5
 ---
 
-# ⚖ Łuskowanie
+# ⚖️ Łuskowanie
 
-## Do czego służy Łuskowanie?
+## 💡 Do czego służy Łuskowanie?
 
-Rybie łuski służą do wypróbowania szczęścia w zarabianiu więcej lub mniej pieniędzy. Aby skorzystać z funkcji łuskowania, wykonaj poniższe czynności:
+**Łuskowanie** pozwala ryzykować i próbować zdobyć **więcej pieniędzy** za złowione ryby — albo stracić część ich wartości 🐟💸
 
-1. Otwórz menu łuskowania za pomocą `/fish Scales` lub poprzez menu główne.
+Aby skorzystać z tej funkcji:
 
-2. Przeciągnij i upuść rybę do GUI. Można wykorzystać dowolne sloty.
+1. 🔓 Otwórz menu łuskowania komendą `/fish scales` lub przez **menu główne**.
+2. 🎣 Przeciągnij i upuść rybę do GUI – możesz użyć dowolnych slotów.
+3. 📊 Wybierz typ skali: **Niski**, **Średni**, **Wysoki** lub **Ekstremalny**.
+4. ⚒️ Kliknij **kowadło**, aby przeskalować ryby.
 
-3. Wybierz typ skali: Niski, Średni, Wysoki lub Ekstremalny
-
-4. Naciśnij kowadło, aby przeskalować rybę.
-
-Kiedy już skalujesz swoją rybę, zyska ona losową „wagę”. Jest to bezpośrednio powiązane z uzyskanym wzrostem lub obniżką ceny. Wzrost/spadek jest ZAWSZE procentem opartym na normalnej cenie sprzedaży ryb.
+Każda przeskalowana ryba zyskuje losową **wagę** ⚖️ – ta waga wpływa **procentowo** na końcową cenę sprzedaży ryby. Możesz więc zyskać lub stracić, w zależności od szczęścia!
 
 ![Łuskowanie](./assets/luskowanie.png)
 
-## FAQ
+---
 
-### Co się stanie, jeśli ułożę ryby w jeden slot?
+## ❓ FAQ
 
-Wagi działają w specyficzny sposób. Jeśli umieścisz ryby w jednym miejscu w menu, cały slot zostanie przeskalowany po tej samej cenie.
+### 🤔 Co się stanie, jeśli ułożę ryby w jeden slot?
 
-Jednakże jeśli podzielisz je na różne sloty, wszystkie otrzymają losową przeskalowaną cenę. Możesz zaryzykować cały stos lub poszczególne, w zależności od tego, jak się czujesz.
+📌 **Wszystkie ryby w jednym slocie** zostaną przeskalowane **tą samą wartością**. To znaczy – zysk lub strata będą identyczne dla całego stosu.
+
+📌 Jeśli **rozłożysz ryby na różne sloty**, każda z nich dostanie **oddzielny, losowy wynik** – możesz zyskać więcej, ale ryzyko też jest większe.
+
+🧠 To od Ciebie zależy, czy chcesz ryzykować cały stos, czy pojedyncze sztuki!

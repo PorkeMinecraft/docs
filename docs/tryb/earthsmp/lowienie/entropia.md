@@ -4,58 +4,74 @@ sidebar_position: 4
 
 # ✨ Entropia
 
-## Czym jest entropia?
+## 💡 Czym jest entropia?
 
-Entropia jest używana jako waluta związana z łowieniem. Zdobywasz ją w wielu formach i jest używana do tworzenia [ulepszeń](/earthsmp/lowienie/umiejetnosci), [totemu](/earthsmp/lowienie/totemy) i [ulepszania dostaw](/earthsmp/lowienie/dostawy) w `/fish deliveries`.
+Entropia to specjalna waluta używana w systemie wędkarstwa. Zdobywasz ją w różnych formach i wykorzystujesz do tworzenia [ulepszeń](/earthsmp/lowienie/umiejetnosci), [totemów](/earthsmp/lowienie/totemy) oraz [ulepszania dostaw](/earthsmp/lowienie/dostawy) w komendzie `/fish deliveries`.
 
-#### Entropia jest niezbędna do wędkarstwa. Bez tego nie można ulepszać dostaw ani ulepszeń.
+**Entropia jest niezbędna do wędkarstwa. Bez niej nie można rozwijać ulepszeń ani dostaw.**
 
-## Jak zarobić Entropię?
+---
 
-Istnieje wiele sposobów na zdobycie entropi. Poniżej znajduje się tabela przedstawiająca możliwe sposoby zdobycia entropi.
+## 🎣 Jak zdobyć entropię?
+
+Istnieje wiele sposobów na zdobycie entropii. Poniżej znajdziesz tabelę prezentującą przykładowe wartości:
 
 :::info
-Są to tylko wartości domyślne i mogą różnić się od wartości uzyskanych z ulepszeń na wędce.
+Podane wartości to wartości bazowe i mogą się zmieniać w zależności od ulepszeń na wędce.
 :::
 
-| Poziomy    | Złapane Ryby | Patroszenie ryb |
-| ---------- | ------------ | --------------- |
-| Brązowe    | 45           | 40              |
-| Srebrne    | 110          | 120             |
-| Złote      | 200          | 200             |
-| Diamentowe | 350          | 500             |
-| Platynowe  | 1250         | 1000            |
-| Mityczne   | 10000        | Niedostępne     |
+| 🏆 Poziom     | 🐟 Złapane ryby | 🔪 Patroszenie ryb |
+| ------------- | --------------- | ------------------ |
+| 🟤 Brązowy    | 45              | 40                 |
+| ⚪ Srebrny    | 110             | 120                |
+| 🟡 Złoty      | 200             | 200                |
+| 💎 Diamentowy | 350             | 500                |
+| 🔱 Platynowy  | 1250            | 1000               |
+| 🌟 Mityczny   | 10000           | 🚫 Niedostępne     |
 
-## Ulepszenia
+---
 
-Jeśli chcesz zmaksymalizować swoje zarobki entropi, powinieneś zainwestować w następujące ulepszenia:
+## 🛠️ Najlepsze ulepszenia
 
-| Ulepszenia                                                                 | Opis                                                                                                                     |
-| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Hot Spot](/earthsmp/lowienie/Ulepszenia/lista#hot-spot)                   | Umożliwia złowienie wielu ryb na raz, co pozwala na wypatroszenie większej ilości ryb w celu uzyskania większej Entropi. |
-| [Call of the Storm](/earthsmp/lowienie/Ulepszenia/lista#call-of-the-storm) | Działa tak samo jak Hot Spot, ale w deszczu.                                                                             |
-| [Precision Cutting](/earthsmp/lowienie/Ulepszenia/lista#precision-cutting) | Zapewnia większą entropię podczas patroszenia ryb.                                                                       |
-| [Perception](/earthsmp/lowienie/Ulepszenia/lista#perception)               | Zapewnia większą entropię podczas łowienia ryb. (mnoży podstawowe zarobki z entropii)                                    |
+Aby zmaksymalizować zyski z entropii, warto zainwestować w odpowiednie ulepszenia:
 
-## Boostery
+| ⚙️ Ulepszenie                                                                     | 📌 Działanie                                                            |
+| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [🔥 **Hot Spot**](/earthsmp/lowienie/Ulepszenia/lista#hot-spot)                   | Pozwala złowić kilka ryb jednocześnie, co zwiększa zyski z patroszenia. |
+| [🌧️ **Call of the Storm**](/earthsmp/lowienie/Ulepszenia/lista#call-of-the-storm) | Działa podobnie do Hot Spot, ale aktywuje się podczas deszczu.          |
+| [✂️ **Precision Cutting**](/earthsmp/lowienie/Ulepszenia/lista#precision-cutting) | Zwiększa ilość entropii zdobywanej z patroszenia.                       |
+| [🎯 **Perception**](/earthsmp/lowienie/Ulepszenia/lista#perception)               | Mnoży podstawową ilość entropii zdobywaną podczas łowienia ryb.         |
 
-Najlepszym sposobem na pomnożenie ilości zdobytej entropii jest użycie boosterów. Można je zdobyć domyślnie z [nagród za dostawę](/earthsmp/lowienie/dostawy)
+---
 
-## Totemy
+## ⚡ Boostery
 
-Totemy to kolejny doskonały sposób na zdobycie entropi. Korzystanie z umiejętności [Horyzont Entropi](/earthsmp/lowienie/totemy#ulepszenia-totemu-1) pozwala zarobić do 25% więcej entropi z każdej złowionej ryby.
+Najprostszym sposobem na pomnożenie entropii są **boostery**. Można je zdobyć m.in. z [nagród za dostawy](/earthsmp/lowienie/dostawy). Warto je zbierać i używać w odpowiednim momencie, by znacząco zwiększyć zyski.
 
-Możesz także rozważyć użycia Mitycznych Wód i Szkoła Rybaka, ponieważ zwiększa one liczbę łowionych ryb i sprawią, że Hot Spot i Call of the Storm będą działać częściej.
+---
 
-## Umiejętności
+## 🪄 Totemy
 
-Umiejętności wędkarskie mogą być również bardzo ważne przy zaopatrywaniu się entropi podczas łowienia.
+Totemy to kolejny skuteczny sposób na zdobycie większej ilości entropii. W szczególności:
 
-Można przeznaczyć kilka punktów na [umiejętności](/earthsmp/lowienie/umiejetnosci) najlepsze umiejętności są to [Lepsze patroszenie](/earthsmp/lowienie/umiejetnosci#umiejętności-które-można-ulepszać) i [Szczęście w połowu](/earthsmp/lowienie/umiejetnosci#umiejętności-które-można-ulepszać) ponieważ pomagają one w uzyskiwaniu większej liczby entropi w przypadku patroszenia i łapania ryb.
+- Umiejętność [✨ **Horyzont Entropii**](/earthsmp/lowienie/totemy#ulepszenia-totemu-1) może zwiększyć zyski nawet o **25%**.
+- 🌊 **Mityczne Wody** i 🎣 **Szkoła Rybaka** zwiększają liczbę ryb, co sprawia, że **Hot Spot** i **Call of the Storm** aktywują się częściej.
 
-Co więcej?
+---
 
-Możesz umieścić ulepszenia na wędkę są to [Master Fisherman](/earthsmp/lowienie/Ulepszenia/lista#master-fisherman) i [Perception](/earthsmp/lowienie/patroszenie) lub [Precison Cutting](/earthsmp/lowienie/Ulepszenia/lista#precision-cutting)
+## 🧠 Umiejętności
 
-Więcej informacji na temat Umiejętności znajdziesz na stronie [Umiejętnośći](/earthsmp/lowienie/umiejetnosci).
+Nie zapominaj o inwestowaniu punktów w **umiejętności wędkarskie**! Szczególnie polecane są:
+
+- [🔪 **Lepsze patroszenie**](/earthsmp/lowienie/umiejetnosci#umiejętności-które-można-ulepszać) – zwiększa entropię z patroszenia.
+- [🍀 **Szczęście w połowie**](/earthsmp/lowienie/umiejetnosci#umiejętności-które-można-ulepszać) – zwiększa entropię ze złowionych ryb.
+
+Możesz również wzmocnić swoją wędkę ulepszeniami, takimi jak:
+
+- [👑 **Master Fisherman**](/earthsmp/lowienie/Ulepszenia/lista#master-fisherman)
+- [🎯 **Perception**](/earthsmp/lowienie/patroszenie)
+- [✂️ **Precision Cutting**](/earthsmp/lowienie/Ulepszenia/lista#precision-cutting)
+
+---
+
+Więcej informacji znajdziesz na stronie [**Umiejętności**](/earthsmp/lowienie/umiejetnosci).

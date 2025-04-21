@@ -4,93 +4,109 @@ sidebar_position: 5
 
 # 🗼 Totemy Wędkarskie
 
-## Jak zdobyć totem wędkarski?
+## 🎣 Jak zdobyć Totem Wędkarski?
 
-Zdobycie totemu wędkarskiego jest łatwe. Musisz zbudować totem i zapewnić określoną liczbę materiałów.
+Zdobycie Totemu Wędkarskiego jest proste – wystarczy zbudować strukturę i zebrać odpowiednie przedmioty.
 
-### Jakich przedmiotów potrzebuję?
+### 🧾 Wymagane przedmioty
 
-- 16 [Ogonów Delfina](/earthsmp/lowienie/podstawy#kraby)
-- 16 [Pazur Kraba](/earthsmp/lowienie/podstawy#kraby)
-- 16 [Łuska Kraba](/earthsmp/lowienie/podstawy#kraby)
-- 16 [Macka kałamarnicy](/earthsmp/lowienie/podstawy#kraby)
-- 6 Jakakolwiek platynowa ryba
+- 🐬 16 [Ogonów Delfina](/earthsmp/lowienie/podstawy#kraby)
+- 🦀 16 [Pazurów Kraba](/earthsmp/lowienie/podstawy#kraby)
+- 🐚 16 [Łusek Kraba](/earthsmp/lowienie/podstawy#kraby)
+- 🦑 16 [Macek Kałamarnicy](/earthsmp/lowienie/podstawy#kraby)
+- 🐟 6 dowolnych **platynowych ryb**
 
-:::danger
-Aby aktywować Totem, będziesz potrzebować 20 poziomu wędkarstwa. Możesz to sprawdzić w `/fish stats`
+:::danger Wymagany poziom
+Aby aktywować Totem, potrzebujesz **20 poziomu wędkarstwa**. Możesz to sprawdzić komendą `/fish stats`.
 :::
 
-## Jak aktywować totem wędkarski?
+---
 
-Gdy już będziesz mieć powyższe elementy i wymagany poziom. Musisz zbudować strukturę. Przewodnik znajdziesz w `/fish menu` lub użyj poniższego obrazka.
+## ⚙️ Jak aktywować Totem?
+
+Gdy masz wszystkie materiały i wymagany poziom:
+
+1. 🔨 Zbuduj strukturę totemu (przewodnik znajdziesz w `/fish menu`).
+2. 📸 Możesz też skorzystać z poniższego obrazka:
 
 ![totem](./assets/totem.png)
 
-Kiedy już zbudujesz totem wędkarski, użyj wędki, uderz w dolnego obserwera, a powinien się on aktywować lub wyświetli komunikat o błędzie, w zależności od tego, czego brakuje.
+3. 🪝 Uderz dolnego **obserwera** wędką – Totem powinien się aktywować (lub wyświetlić komunikat o błędzie, jeśli czegoś brakuje).
 
 :::info
-Kierunek schodów nie ma znaczenia i mogą być zwrócone w dowolnym kierunku.
+Kierunek schodków **nie ma znaczenia** – mogą być ustawione w dowolną stronę.
 :::
 
-## Aktywowałem mój totem, więc co on robi?
+---
 
-Totem zapewnia użytkownikowi wiele różnych korzyści. Jednak niektóre z nich wymagają ulepszenia Entropii, a inne wymagają wysokiego poziomu połowu. Podzieliłem je na trzy sekcje:
+## ✨ Co robi aktywowany Totem?
 
-## Ulepszenia totemu
+Totem daje różne korzyści i efekty. Niektóre z nich wymagają ulepszeń za Entropię, inne zaś odpowiedniego poziomu połowu i pasywnych slotów.
 
-Totem wędkarski ma trzy główne ulepszenia. Są one wymienione poniżej. (Koszt ulepszenia to poprzedni koszt + ustalona kwota) Kolumna maksymalna jest tym, czego możesz się spodziewać, jeśli awansujesz ulepszenie do maksymalnego poziomu.
+---
 
-| Ulepszenia      | Koszt początkowy | Dodatkowy koszt | Maksymalne ulepszenie | Co to robi?                                                                  |
-| --------------- | ---------------- | --------------- | --------------------- | ---------------------------------------------------------------------------- |
-| Zasięg          | 115,000          | 62,500          | 30 bloków             | Zwiększa to promień, w którym możesz stać wewnątrz, aby uzyskać wzmocnienia. |
-| Czas odnowienia | 120,000          | 100,000         | 30 minut              | Skraca to początkowy czas odnowienia z 60 minut.                             |
-| Aktywny czas    | 90,000           | 100,000         | 30 minut              | Wydłuża to czas działania wzmocnień totemu.                                  |
+## 🧪 Ulepszenia Totemu (Entropia)
 
-Możesz skorzystać z poniższego wzoru, aby obliczyć koszt kolejnego uaktualnienia. Dodam przykład, powiedzmy ulepszanie zasięgu do poziomu 5.
+Totem można ulepszyć za pomocą Entropii – każde ulepszenie zwiększa jego skuteczność:
 
-150 000 + (75 000 \* 5) = 525 000 Entropii na 5. poziomie.
+| 🔧 Ulepszenie      | 💰 Koszt początkowy | ➕ Dodatkowy koszt | 🔝 Maks. poziom | 💡 Co robi?                                   |
+| ------------------ | ------------------- | ------------------ | --------------- | --------------------------------------------- |
+| 📏 Zasięg          | 115 000             | 62 500             | 30 bloków       | Zwiększa promień działania Totemu.            |
+| ⏱️ Czas odnowienia | 120 000             | 100 000            | 30 minut        | Skraca czas odnowienia z domyślnych 60 minut. |
+| 🕒 Aktywny czas    | 90 000              | 100 000            | 30 minut        | Wydłuża czas działania wzmocnień.             |
 
-Koszt początkowy + (dodatkowy poziom ∗ kosztu)
+📐 **Wzór na koszt ulepszenia:**  
+`Koszt początkowy + (poziom × koszt dodatkowy)`
+
+**Przykład:** Ulepszenie zasięgu do poziomu 5:  
+`115 000 + (62 500 × 5) = 427 500 Entropii`
 
 :::info
-Zaleca się zwiększanie promienia tylko wtedy, gdy chcesz, aby obejmował on duży obszar, np. jezioro. Wystarczy w nim stanąć, aby otrzymać pasywne wzmocnienia. Spławik wędkarski nie musi się w nim znajdować.
+Zwiększaj promień tylko wtedy, gdy totem ma obejmować większy obszar, np. jezioro. Wystarczy, że **Ty stoisz w zasięgu** – spławik może być poza nim.
 :::
 
-## Sloty Pasywne
+---
 
-Miejsca pasywne są bardzo ważne, ponieważ są potrzebne do aktywacji ulepszeń totemów. Na maksymalnym poziomie możesz mieć maksymalnie 18 pasywnych slotów. Aby uzyskać nowy pasywny slot potrzebujesz:
+## 🧩 Sloty pasywne
 
-| Potrzebujesz   | Ilość Ryb |
-| -------------- | --------- |
-| Platynowa Ryba | x5        |
-| Mityczna Ryba  | x1        |
+Pasywne sloty są potrzebne do aktywowania pasywnych ulepszeń Totemu.
 
-Pamiętaj, że po każdym ulepszeniu poziomu koszt będzie się powiększał. Na przykład, jeśli masz już dwa pasywne miejsca, trzeci będzie kosztować:
+| 🎣 Ryba      | 🔢 Ilość |
+| ------------ | -------- |
+| 🐟 Platynowa | x5       |
+| 🐠 Mityczna  | x1       |
 
-- 3x Mityczne Ryby
-- 15x Platynowych Ryb
+📈 Koszt rośnie z każdym kolejnym slotem.  
+**Przykład (3. slot):**
 
-:::danger
-Nie można mieszać i dopasowywać ryb!!! (np. 1 mityczna i 14 platynowych). Aby stworzyć kolejny pasywny slot, ryby muszą być tego samego typu
+- 15x Platynowych ryb
+- 3x Mityczne ryby
+
+:::danger Uwaga!
+Ryby muszą być tego **samego rodzaju** – nie można mieszać mitycznych i platynowych!
 :::
 
-## Ulepszenia Totemu
+---
 
-Ulepszenia są oddzielone od ulepszeń za Entropie. Zamiast tego wymagają różnych poziomów połowów i pasywnych miejsc do aktywacji. Poniżej znajduje się lista ulepszeń, wymagany poziom, koszt slotu pasywnego i jego działanie.
+## 💎 Pasywne ulepszenia Totemu
+
+Ulepszenia te są **oddzielne** od ulepszeń Entropii – wymagają odpowiedniego poziomu wędkarstwa i dostępnych slotów.
 
 :::info
-Aby efekty pasywne zadziałały, MUSISZ stanąć wewnątrz zielonego okręgu. Całkiem w porządku jest rzucić wędkę poza ten okrąg, ale gracz musi znajdować się w jego wnętrzu.
+🎯 Aby efekty działały, **musisz stać w promieniu Totemu** (zielony okrąg). Spławik może być poza nim.
 
-Ulepszenia można włączać i wyłączać nawet wtedy, gdy Totem jest aktywny, co pozwala na dowolną wymianę ulepszenia podczas pracy. Możesz mieć aktywnych tylko tyle, ile masz pasywnych miejsc w danym momencie.
+🔄 Ulepszenia możesz włączać/wyłączać nawet podczas działania Totemu.
 :::
 
-| Ulepszenia         | Poziom Łowienia | Sloty | Jak to działa?                                                                                                            |
-| ------------------ | --------------- | ----- | ------------------------------------------------------------------------------------------------------------------------- |
-| Doświadczony rybak | 20              | 1     | Zwiększa ilość doświadczenia wędkarskiego które otrzymasz podczas łowienia.                                               |
-| Małe stworzenia    | 40              | 2     | Zapewni ci wyższą szansę na zdobycie łupów związanych z krabami.                                                          |
-| Szkoła rybna       | 40              | 3     | sprawi że ulepszenie Gorący Punkt będzie aktywowany częściej.                                                             |
-| Losowe krople      | 55              | 4     | Daje to szansę na zdobycie innych łupów wędkarskich, takich jak macki kałamarnicy lub odony delfinów, za zabijaie krabów. |
-| Poszukiwać skarbów | 60              | 5     | Daje to 1% szansy za znalezienie rzadkich przedmiotów podczas łowienia ryb.                                               |
-| Mityczne wody      | 60              | 5     | Za każdym razem, gdy złapiesz rybę, masz 20% szans na ulepszenie jej do wyższej rzadkości.                                |
-| Horyzont entropi   | 60              | 6     | Zwiększa to entropię uzyskiwaną podczas łowienia o 1,25x.                                                                 |
-| Upadek Gwiazdy     | 100             | 10    | aktualnie wyłączone ulepszenie.                                                                                           |
+| 🧠 Ulepszenie          | 🎣 Poziom | 🔳 Sloty | 🧾 Opis działania                                                |
+| ---------------------- | --------- | -------- | ---------------------------------------------------------------- |
+| 📘 Doświadczony Rybak  | 20        | 1        | Zwiększa ilość zdobywanego doświadczenia podczas łowienia.       |
+| 🦀 Małe Stworzenia     | 40        | 2        | Zwiększa szansę na łupy związane z krabami.                      |
+| 🐠 Szkoła Rybna        | 40        | 3        | Sprawia, że ulepszenie "Gorący Punkt" aktywuje się częściej.     |
+| 🎁 Losowe Krople       | 55        | 4        | Szansa na dodatkowe łupy (np. Macki, Ogony) za zabijanie krabów. |
+| 💰 Poszukiwacz Skarbów | 60        | 5        | 1% szansy na znalezienie rzadkich przedmiotów podczas łowienia.  |
+| 🧬 Mityczne Wody       | 60        | 5        | 20% szansy na ulepszenie złowionej ryby do wyższej rzadkości.    |
+| 🌌 Horyzont Entropii   | 60        | 6        | Zwiększa ilość zdobywanej Entropii o 1.25x.                      |
+| ⭐ Upadek Gwiazdy      | 100       | 10       | 🔒 Obecnie wyłączone.                                            |
+
+---

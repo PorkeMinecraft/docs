@@ -4,32 +4,41 @@ sidebar_position: 8
 
 # 🚌 Dostawy
 
-## Jak zarabiać na dostawach?
+## 💰 Jak zarabiać na dostawach?
 
-Możesz zdobywać nową dostawę za każde 180 ryb, które złapiesz. Gdy złowisz wystarczającą ilość ryb, na czacie pojawi się komunikat informujący o nowej dostawie.
+Za każde **180 złowionych ryb** otrzymujesz jedną 📦 **Dostawę**.
 
-Możesz także sprawdzić, ile ryb potrzebujesz do następnej dostawy w menu ryb, najeżdżając kursorem na ikonę dostawy.
+Po złowieniu odpowiedniej liczby ryb, na czacie pojawi się komunikat informujący o nowej dostawie.  
+Możesz również sprawdzić swój postęp w menu ryb – wystarczy najechać na ikonę dostawy 🐟📦
 
 ![dostawy](./assets/dostawy.png)
 
-## Jak działają dostawy?
+---
 
-Oddajesz rybę i dobierasz nagrodę. Poniżej jest to podzielone na dalsze kroki:
+## ⚙️ Jak działają dostawy?
 
-1. Zdobądź dostawę, łowiąc 180 ryb.
-2. Złap lub zdobywaj w jakiś sposób ryby potrzebne do dostawy.
-3. Kliknij dostawę, aby ją rozpocząć. Spowoduje to zabranie ryb.
-4. Poczekaj, aż czas dostawy się zakończy.
-5. Odbierz nagrodę, klikając ikonę w menu dostawy.
+Mechanika dostaw jest prosta, a nagrody bardzo opłacalne! ✨
 
-## Ulepszenia
+1. 🎣 Złów **180 ryb**, aby odblokować nową dostawę
+2. 🐟 Zdobądź wymaganą ilość określonych ryb
+3. 📦 Kliknij dostawę, aby ją rozpocząć (ryby zostaną zabrane)
+4. ⏳ Odczekaj wymagany czas
+5. 🎁 Odbierz swoją nagrodę z menu dostawy
 
-Istnieje pięc charakterystycznych ulepszeń, które pomogą ci w realizacji i zdobywaniu dostaw. Poniżej zostały one omówione:
+---
 
-| Ulepszenia             | Opis                                                         |
-| ---------------------- | ------------------------------------------------------------ |
-| Zwiększona pojemność   | Zwiększa ilość dostaw, które możesz jednorazowo przetrzymać. |
-| Podkręcony             | Skraca czas potrzebny na dostarczenie wszystkich dostaw.     |
-| Ekspert w dostarczaniu | Zmniejsza liczbę ryb potrzebnych do dostaw.                  |
-| Zwiększona płaca       | Zwiększa nagrodę za entropię za ukończenie dostaw.           |
-| Szczęśliwy traf        | Zmniejsza ilość ryb potrzebnych do zdobycia nowej dostawy.   |
+## 🛠️ Ulepszenia dostaw
+
+Możesz rozwinąć pięć **specjalnych ulepszeń**, które ułatwią realizację dostaw i zwiększą zyski:
+
+| 🧪 Ulepszenie                 | ✍️ Opis                                                       |
+| ----------------------------- | ------------------------------------------------------------- |
+| 🧺 **Zwiększona pojemność**   | Pozwala przechowywać więcej dostaw jednocześnie               |
+| ⚡ **Podkręcony**             | Skraca czas potrzebny na realizację dostaw                    |
+| 🧠 **Ekspert w dostarczaniu** | Zmniejsza liczbę wymaganych ryb do pojedynczej dostawy        |
+| 💸 **Zwiększona płaca**       | Zwiększa ilość 🧬 Entropii otrzymywanej za wykonanie dostawy  |
+| 🍀 **Szczęśliwy traf**        | Zmniejsza ilość ryb potrzebnych do odblokowania nowej dostawy |
+
+---
+
+📦 **Dostawy** to idealny sposób na pasywny zysk, szczególnie jeśli lubisz regularnie łowić ryby! Nie zapomnij inwestować w ulepszenia, by wycisnąć z nich maksimum! 🐠💼

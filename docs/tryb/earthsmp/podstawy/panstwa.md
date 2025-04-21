@@ -10,7 +10,7 @@ sidebar_position: 1
 
 Na serwerze **EarthSMP**, gracze mogą tworzyć i zarządzać swoimi własnymi państwami. Każde państwo może mieć swoje własne prawa, członków i regiony. Dzięki temu systemowi możesz zabezpieczyć swój teren przed innymi graczami, prowadzić dyplomację oraz współpracować z przyjaciółmi w ramach jednego państwa. 🌎🤝
 
-## 🇺🇳 Tworzenie państwa
+## 🫅 Tworzenie państwa
 
 Aby stworzyć swoje własne państwo, użyj komendy:
 

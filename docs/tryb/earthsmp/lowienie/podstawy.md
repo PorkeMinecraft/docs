@@ -27,7 +27,7 @@ Twój poziom łowienia jest bardzo ważny! Możesz zdobywać **XP** za łapanie 
 | 🟤 Brązowe    | 75   |
 | ⚪ Srebrne    | 150  |
 | 🟡 Złote      | 300  |
-| 🔷 Diamentowe | 700  |
+| 💎 Diamentowe | 700  |
 | 🔱 Platynowe  | 1900 |
 | 🌟 Mityczne   | 6000 |
 

@@ -4,35 +4,46 @@ sidebar_position: 1
 
 # 📖 Informacje Początkowe
 
-## Czym są Ulepszenia?
+## ✨ Czym są Ulepszenia?
 
-Ulepszenia to w zasadzie niestandardowe zaklęcia tworzone przy użyciu kotła. Można je obecnie zastosować TYLKO na wędce.
+**Ulepszenia** to niestandardowe zaklęcia tworzone przy użyciu **kotła**.  
+Obecnie można je zastosować **tylko na wędce** 🎣.
 
-## Jak stworzyć ulepszenia?
+---
 
-Ulepszenia można wytworzyć, wrzucając wymagane przedmioty do kotła i uderzając go wędką.
+## 🧪 Jak stworzyć ulepszenia?
 
-Bardziej szczegółowy przewodnik na temat wytwarzania ulepszeń znajdziesz [tutaj](/earthsmp/lowienie/Ulepszenia/lista#ulepszenia)
+Ulepszenia można wytworzyć, wrzucając **wymagane przedmioty** do **kotła**, a następnie **uderzając go wędką**.
 
-## Jak umieścić ulepszenia na wędce?
+📘 Szczegółowy przewodnik dotyczący tworzenia znajdziesz [tutaj](/earthsmp/lowienie/Ulepszenia/lista#ulepszenia).
 
-Zakładanie ulepszeń wędkarskich na wędke jest bardzo proste. Wtkonaj te proste kroki:
+---
 
-1. Owórz menu `/fish augment` lub `/fish menu` → Ulepszenia
-2. Przeciągnij i upuść wędkę oraz ulepszenia w puste miejsca pod książkami. Twoja wędka powinna znajdować się w pierwszym miejscu, a ulepszenie w drugim.
-3. Kliknij na zieloną szybkę aby zaakceptować ulepszenie
+## 🪝 Jak umieścić ulepszenia na wędce?
 
-![ulepszenia](ulepszenia.png)
+Zakładanie ulepszeń na wędkę jest bardzo proste. Wykonaj te kilka kroków:
 
-## Jak usunąć ulepszenia?
+1. Otwórz menu komendą `/fish augment` lub `/fish menu` → **Ulepszenia**
+2. Przeciągnij i upuść **wędkę** oraz **ulepszenie** w odpowiednie pola (wędka w pierwsze, ulepszenie w drugie).
+3. Kliknij na **zieloną szybkę**, aby zaakceptować dodanie ulepszenia.
 
-Usuwanie ulepszeń jest również niezwykle proste! Jednak do tego będziesz potrzebować 25 000 Entropi.
+![ulepszenia](assets/ulepszenia.png)
 
-Aby usunąć swoje ulepszenia, wykonaj następujące proste kroki:
+---
 
-1. Otwórz menu `/fish augment` lub `/fish menu` -> Ulepszenia
-2. Umieść wędkę w pierwszym miejscu menu pod książką.
-3. Kliknij TNT, aby potwierdzić usunięcie swoich ulepszeń.
-4. Ulepszenia zostaną zwrócone do Twojego ekwipunku.(spadną na ziemię, jeśli nie masz miejsca).
+## ❌ Jak usunąć ulepszenia?
 
-![zworty](zwroty.png)
+Usunięcie ulepszeń również jest bardzo proste, jednak **wymaga 25,000 Entropii** 🧬.
+
+Aby usunąć ulepszenia z wędki:
+
+1. Otwórz menu `/fish augment` lub `/fish menu` → **Ulepszenia**
+2. Umieść **wędkę** w pierwszym slocie (pod ikoną książki).
+3. Kliknij **TNT**, aby potwierdzić usunięcie ulepszeń.
+4. Ulepszenia zostaną **zwrócone do Twojego ekwipunku** (lub **spadną na ziemię**, jeśli nie masz miejsca).
+
+![zwroty](assets/zwroty.png)
+
+---
+
+🎣 Powodzenia w ulepszaniu swojej wędki i rozwijaniu swoich umiejętności łowienia!

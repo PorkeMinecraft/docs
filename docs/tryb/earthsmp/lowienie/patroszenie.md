@@ -2,37 +2,53 @@
 sidebar_position: 7
 ---
 
-# ⚔ Stacja Patroszenia
+# ⚔️ Stacja Patroszenia
 
-## Co to jest patroszenie ryb?
+## 🐟 Co to jest patroszenie ryb?
 
-„Patroszenie” to koncepcja łowienia ryb i patroszenia ich w celu uzyskania dodatkowej Entropii. Zarobisz mniej Entropii za patroszenie niż za faktyczne łowienie ryb ale pozwoli ci to zwiększyć swoją entropię, na wypadek, gdybyś potrzebował dodatkowej entropi.
+„Patroszenie” to mechanika polegająca na rozkładaniu złowionych ryb w celu uzyskania dodatkowej 🧬 Entropii.
 
-Obecnie jedyną rzeczą, którą możesz zdobyć na patroszeniu jest Entropia. Nie możesz zdobyć żadnych dodatkowych przedmiotów ani cofnąć procesu.
+🎣 Choć zarobisz **mniej Entropii** niż za standardowe łowienie, patroszenie to świetna opcja, gdy potrzebujesz jej trochę więcej „na już”.
 
-## Jak patroszyć ryby?
+> 🛑 **Uwaga!** Patroszenie daje wyłącznie Entropię – **nie** otrzymasz żadnych dodatkowych przedmiotów i **nie można cofnąć** tego procesu!
 
-Patroszenie ryb jest niezwykle proste i łatwe!!
+---
 
-1. Po prostu użyj komendy `/fish gut` lub `/fish menu` -> Stacja Patroszenia
-2. Umieść rybki w menu patroszenia
-3. Kliknij w gwiazdę netherową, aby wypatroszyć ryby.
+## 🛠️ Jak patroszyć ryby?
+
+Patroszenie jest bardzo proste:
+
+1. 💬 Użyj komendy:  
+   `/fish gut`  
+   lub przejdź przez `/fish menu` → **Stacja Patroszenia**
+2. 🧺 Umieść ryby w specjalnym menu
+3. ✨ Kliknij w **gwiazdę netherową**, aby rozpocząć patroszenie
 
 ![patroszenie](./assets/patroszenie.png)
 
-## Jak zwiększyć dochody z patroszenia ryb?
+---
 
-Obecnie istnieją dwa główne sposoby na zwiększenie dochodów z patroszenia ryb.
+## 💡 Jak zwiększyć zysk z patroszenia?
 
-- [Precision Cutting](/earthsmp/lowienie/Ulepszenia/lista#precision-cutting)
-- [Lepsze patroszenie](/earthsmp/lowienie/umiejetnosci#umiejętności-które-można-ulepszać)
+Obecnie masz **dwa główne sposoby**, by zwiększyć Entropię z patroszenia:
 
-Te dwa boostery nie kumulują się razem, ale działają niezależnie w oparciu o podstawowy dochód z patroszenia ryb.
+- 🧪 [Precision Cutting](/earthsmp/lowienie/Ulepszenia/lista#precision-cutting) _(ulepszenie totemu)_
+- 📈 [Lepsze Patroszenie](/earthsmp/lowienie/umiejetnosci#umiejętności-które-można-ulepszać) _(umiejętność wędkarza)_
 
-#### Precision Cutting
+🧠 Te dwa bonusy **nie kumulują się ze sobą**, ale działają niezależnie na podstawowy zysk z patroszenia.
+
+---
+
+### 🔬 Precision Cutting
+
+Ulepszenie, które możesz odblokować dla swojego **Totemu Wędkarskiego**, zwiększające zyski z patroszenia.
 
 ![precison](./assets/precision.png)
 
-#### Lepsze Patroszenie
+---
+
+### 📚 Lepsze Patroszenie
+
+Umiejętność pasywna, którą możesz rozwijać w swoim drzewku umiejętności.
 
 ![lepsze](./assets/lepsze.png)

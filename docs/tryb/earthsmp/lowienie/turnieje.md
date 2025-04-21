@@ -4,37 +4,44 @@ sidebar_position: 9
 
 # 🎖 Turnieje
 
-## Czym są turnieje?
+## 🐟 Czym są turnieje?
 
-Turnieje jest to najszybszy sposób na zdobycie pieniędzy lub ulepszeń. Na serwerze mamy 8 turnieji dziennych.
+**Turnieje** to **najszybszy sposób na zdobycie pieniędzy 💰 i ulepszeń 🔧**.  
+Na serwerze codziennie odbywa się **aż 8 turniejów**, które rozgrywają się o następujących godzinach:
 
-![turnieje](./assets/turnieje.png)
+🕒 **Godziny turniejów:**  
+`8:00`, `10:00`, `12:00`, `14:00`, `16:00`, `18:00`, `20:00`, `22:00`
 
-Aby brać udział w takim turnieju potrzebujesz tylko wędki!!!
+Do udziału potrzebujesz **tylko wędki!** 🎣
 
-Gdy zobaczysz na czacie komunikat o rozpoczęciu się turnieju zabierz wędkę i łów.
+Kiedy na czacie pojawi się komunikat o rozpoczęciu turnieju, złap swoją wędkę i biegnij łowić!  
+Turniej trwa **10 minut**, podczas których musisz złowić **jak najwięcej** lub **największe/najmniejsze ryby**, w zależności od rodzaju turnieju.
 
-[tutaj ss narazie nie mam]
+📊 Po zakończeniu turnieju pojawi się **tabela wyników**, a gracze z najwyższymi miejscami otrzymają nagrody:
 
-Podczas turnieju mamy 10 minut aby złowić najwięcej, najmniejsze, największe ryby. Gdy skonczy się czas pokaże się tabela z winikiem wygranych. Mamy
-3 miejsca za którę dostaniesz poszczególne nagrody:
+🥇 **1. miejsce** – `10,000$` + 🎁 [1 klucz rybaka](/earthsmp/lowienie/podstawy#skrzynia-rybaka)  
+🥈 **2. miejsce** – `6,500$`  
+🥉 **3. miejsce** – `2,500$`  
+🎣 Pozostali gracze – `1,500 🌌 Entropii`
 
-1. 10,000$ i 1 [klucz rybaka](/earthsmp/lowienie/podstawy#skrzynia-rybaka)
-2. 6,500$
-3. 2,500$
-4. Reszta graczy 1,500 Entropii
+---
 
-## Jakie są rodzaje turniejów?
+## 🧩 Rodzaje turniejów
 
-Na serwerze mamy 7 rodzajów turniejów takich jak:
+Na serwerze znajduje się **8 różnych rodzajów turniejów** – każdy z innym celem:
 
-| Nazwa             | Opis                                                                     |
-| ----------------- | ------------------------------------------------------------------------ |
-| RandomCatchFish   | Złów najwięcej ryb wymienionych w turnieju.                              |
-| CrabKilling       | Zabijaj najwięcej krabów.                                                |
-| LongestCast       | Złów najdłuższą rybę.                                                    |
-| BaseEntropyEarned | Złów i zarób najwięcej entropi. (Patroszenie nie wlicza się do turnieju) |
-| LongestLength     | Złów najdłuższą rybę.                                                    |
-| ShortestLength    | Złów najkrótszą rybę.                                                    |
-| MostCatch         | Złap najwięcej ryb.                                                      |
-| MostBiomes        | Złów ryby na największej ilości biomów.                                  |
+| 🏷️ Nazwa                 | 🎯 Opis                                                              |
+| ------------------------ | -------------------------------------------------------------------- |
+| 🐠 **RandomCatchFish**   | Złów **jak najwięcej ryb** wskazanych w opisie turnieju.             |
+| 🦀 **CrabKilling**       | Zabij jak najwięcej **krabów**.                                      |
+| 📏 **LongestCast**       | Złów **rybę o największej długości**.                                |
+| 🌌 **BaseEntropyEarned** | Zdobądź jak najwięcej **entropii przez łowienie** (bez patroszenia). |
+| 📏 **LongestLength**     | Złów **najdłuższą rybę**.                                            |
+| 📐 **ShortestLength**    | Złów **najkrótszą rybę**.                                            |
+| 🎣 **MostCatch**         | Złów **najwięcej ryb ogółem**.                                       |
+| 🌍 **MostBiomes**        | Łów ryby na **największej liczbie różnych biomów**.                  |
+
+---
+
+🎉 **Bierz udział w turniejach, rywalizuj z innymi graczami i zdobywaj cenne nagrody!** To świetna okazja, by się wzbogacić i sprawdzić swoje umiejętności łowienia.  
+Nie zapomnij śledzić czatu, by nie przegapić żadnego z nich! 📣

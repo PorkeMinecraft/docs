@@ -67,12 +67,12 @@ const config: Config = {
         //{ to: "/blog", label: "Blog", position: "left" },
         {
           href: "https://mapa.minecube.pl/",
-          label: "Mapa EarthSMP 🗺️",
+          label: "🗺️ Mapa EarthSMP",
           position: "right",
         },
         {
           href: "https://dc.minecube.pl/",
-          label: "Discord",
+          label: "🎙️ Discord",
           position: "right",
         },
       ],
