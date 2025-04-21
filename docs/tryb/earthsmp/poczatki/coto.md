@@ -2,14 +2,19 @@
 sidebar_position: 1
 ---
 
-# ❓ Co to EarthSMP?
+# ❓ Co to jest EarthSMP?
 
-TODO: Wymaga większej ilości danych.
+**EarthSMP** na serwerze **MineCube** to unikalny tryb rozgrywki oparty na realistycznej mapie świata. Oferuje ogrom dodatków — od nowych systemów i mechanik, przez unikalne przedmioty i jedzenie, aż po innowacyjne rozwiązania, które urozmaicają grę i sprawiają, że rozgrywka staje się jeszcze ciekawsza.
 
-EarthSMP w serwerze MineCube to unikalna wersja trybu Survival, która przenosi rozgrywkę na realistyczną mapę świata. Oferuje ona szeroką gamę dodatkowych funkcji, które wzbogacają doświadczenie gry i pozwalają na bardziej złożone interakcje. Poniżej znajdziesz szczegółowy przewodnik, który pomoże Ci zacząć i czerpać pełnię przyjemności z gry.
+### 🌍 Mapa świata
 
-### Mapa świata
+Grasz na dokładnym odwzorowaniu prawdziwej mapy Ziemi!  
+Aby sprawdzić, gdzie jesteś, lub podejrzeć lokalizację innych graczy, odwiedź naszą **interaktywną mapę**:  
+🔗 [https://mapa.minecube.pl](https://mapa.minecube.pl)
 
-Gra toczy się na dokładnym odwzorowaniu mapy świata. Aby sprawdzić, gdzie się znajdujesz, możesz skorzystać ze strony https://mapa.minecube.pl. To interaktywne narzędzie pozwala na śledzenie Twojej pozycji oraz lokalizacji innych graczy w czasie rzeczywistym.
+To narzędzie pozwala szybko się zorientować i zaplanować swoje kolejne kroki.
 
-[**Jesteś nowy? Nie wiesz jak zacząć? Zajrzyj tutaj!**](/earthsmp/poczatki/jakzaczac)
+### 🆕 Nowy na serwerze?
+
+Spokojnie — każdy kiedyś zaczynał!  
+Przygotowaliśmy dla Ciebie [**przewodnik dla początkujących**](jakzaczac), który krok po kroku przeprowadzi Cię przez pierwsze chwile na serwerze EarthSMP.

@@ -4,6 +4,6 @@ sidebar_position: 2
 
 # 🚀 Nitro Boosty
 
-W trakcie przygotowania...
+_Wkrótce dostępne..._
 
-TODO: Zrobić to
+<!-- TODO: Zrobić to -->

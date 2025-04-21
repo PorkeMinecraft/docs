@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # 🤫 Wytwarzanie
 
-TODO: Wymaga większej ilości danych.
+<!-- TODO: Wymaga większej ilości danych. -->
 
 ## Fermentacja
 

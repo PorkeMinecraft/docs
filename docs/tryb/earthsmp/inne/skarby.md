@@ -8,4 +8,4 @@ Na plaży możesz znaleźć trzy rodzaje skarbów:
 
 Każdy z tych skarbów ma unikalny drop, który może zawierać cenne przedmioty. Szukaj ich na plaży i odkrywaj, co się w nich kryje!
 
-TODO: Dodać grafike
+<!-- TODO: Dodać grafike -->

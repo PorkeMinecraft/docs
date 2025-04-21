@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # 🌍 Państwa
 
-TODO: Wymaga aktualizacji do nowej Edycji.
+<!-- TODO: Wymaga aktualizacji do nowej Edycji. -->
 
 ## Wprowadzenie
 
@@ -70,7 +70,7 @@ Możesz nadawać różne rangi członkom państwa, co pozwoli im na wykonywanie 
 
 ## Podstawowe komendy
 
-- W trakcie przygotowania...
+_Wkrótce dostępne..._
 
 ## Inne funkcje
 
@@ -95,7 +95,7 @@ Aby wypowiedzieć wojnę użyj komendy:
 
 ### Ekonomia
 
-W trakcie przygotowania...
+_Wkrótce dostępne..._
 
 ## FAQ
 

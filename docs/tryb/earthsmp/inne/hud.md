@@ -4,7 +4,7 @@ sidebar_position: 13
 
 # 🖥️ HUD
 
-W trakcie przygotowania...
+_Wkrótce dostępne..._
 
-TODO: Wymaga aktualizacji do nowej Edycji.
-Dodanie informacji o bugach z niektórymi Clientami.
+<!-- TODO: Wymaga aktualizacji do nowej Edycji.
+Dodanie informacji o bugach z niektórymi Clientami. -->

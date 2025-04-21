@@ -6,4 +6,4 @@ sidebar_position: 6
 
 Dungeony aktualnie jeszcze nie są dostępne, więcej informacji pojawi się w chwili wprowadzenia.
 
-TODO: Wymaga aktualizacji do nowej Edycji.
+<!-- TODO: Wymaga aktualizacji do nowej Edycji. -->

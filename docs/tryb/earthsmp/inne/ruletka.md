@@ -4,6 +4,6 @@ sidebar_position: 8
 
 # 🛞 Ruletka
 
-W trakcie przygotowania...
+_Wkrótce dostępne..._
 
-TODO: Wymaga aktualizacji do nowej Edycji.
+<!-- TODO: Wymaga aktualizacji do nowej Edycji. -->

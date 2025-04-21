@@ -6,4 +6,4 @@ sidebar_position: 7
 
 Kosmos aktualnie jeszcze nie jest dostępny, więcej informacji pojawi się w chwili wprowadzenia.
 
-TODO: Wymaga aktualizacji do nowej Edycji.
+<!-- TODO: Wymaga aktualizacji do nowej Edycji. -->

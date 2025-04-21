@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # 😈 Nether
 
-TODO: Wymaga aktualizacji do nowej Edycji.
+<!-- TODO: Wymaga aktualizacji do nowej Edycji. -->
 
 Nether na naszym EarthSMP to miejsce pełne tajemnic i niebezpieczeństw. Pod powierzchnią czerwonych netherracków kryją się liczne zagrożenia oraz rzadkie skarby, które przyciągają śmiałków pragnących zdobyć potężne wyposażenie.
 

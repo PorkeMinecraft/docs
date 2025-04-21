@@ -4,16 +4,36 @@ sidebar_position: 2
 
 # 🛖 Dom Aukcyjny
 
-TODO: Wymaga aktualizacji do nowej Edycji.
+<!-- TODO: Wymaga aktualizacji do nowej edycji. -->
 
-### Jak sprzedawać w Domu Aukcyjnym?
+Dom Aukcyjny (AH) to miejsce, gdzie możesz **kupować i sprzedawać przedmioty** innym graczom w wygodny sposób.
 
-Weź do łapki przedmiot który chcesz sprzedać wpisz na chacie `/ah sell <cena>` aby wystawić przedmiot na AH.
+---
 
-Chcesz sprzedać Kilka Przedmiotów jako zestaw? Wpisz `/ah sellinventory <cena>` następnie otworzy ci się GUI do którego wkładasz przedmioty następnie potwierdzasz klikając zielone.
+### 🛒 Jak sprzedawać w Domu Aukcyjnym?
 
-### Jak kupować na Domu Aukcyjnym?
+1. Trzymaj w ręce przedmiot, który chcesz sprzedać.
+2. Wpisz komendę:  
+   `/ah sell <cena>`  
+   Przedmiot zostanie wystawiony na aukcję za podaną cenę.
 
-Aby zakupić przedmiot na Domu Aukcyjnym wystarczy go otworzyć `/ah` i wybrać przedmiot który ciebie interesuje i nacisnąć na niego LPM i potwierdzić zielonym, zakupiony przedmiot będzie dostępny w zakładce "Kupione Przedmioty"
+🔹 **Chcesz sprzedać kilka przedmiotów jako zestaw?**
+
+- Wpisz: `/ah sellinventory <cena>`
+- Otworzy się GUI, do którego wkładasz wszystkie przedmioty na sprzedaż.
+- Po wybraniu przedmiotów kliknij **zielone pole**, aby potwierdzić sprzedaż.
+
+---
+
+### 🛍️ Jak kupować w Domu Aukcyjnym?
+
+1. Otwórz AH komendą: `/ah`
+2. Przeglądaj dostępne przedmioty i kliknij **LPM** na ten, który Cię interesuje.
+3. Potwierdź zakup klikając **zielony przycisk**.
+4. Zakupione przedmioty znajdziesz w zakładce **„Kupione Przedmioty”**.
+
+---
+
+<!-- TODO: GRAFIKA WYMAGA AKTUALIZACJI -->
 
 ![Dom Aukcyjny](./assets/ah.png)

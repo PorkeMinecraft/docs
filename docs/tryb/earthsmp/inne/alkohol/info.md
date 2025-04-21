@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # ℹ️ Informacje
 
-TODO: Wymaga większej ilości danych.
+<!-- TODO: Wymaga większej ilości danych. -->
 
 Na serwerze EarthSMP alkohole odgrywają wyjątkową rolę, oferując graczom ciekawe doświadczenia i zabawę. Dzięki zaawansowanemu systemowi warzenia, każdy gracz ma możliwość tworzenia unikalnych trunków!
 
@@ -12,7 +12,7 @@ Na serwerze EarthSMP alkohole odgrywają wyjątkową rolę, oferując graczom ci
 
 Na naszym serwerze dostępne są różne rodzaje alkoholi, które można tworzyć i pić:
 
-- W trakcie przygotowania...
+- _Wkrótce dostępne..._
 
 ## Efekty Spożycia
 

@@ -58,4 +58,6 @@ Na naszym serwerze staramy się zapewnić uczciwą rozgrywkę dla wszystkich gra
 
 Zapewne grasz na jakimś innym Launcherze niż Minecraft Launcher, oto kilka rozwiązań dla poszczególnych Launcherów.
 
-TODO: Dodać rozwiązania.
+_Wkrótce dostępne..._
+
+<!-- TODO: Dodać rozwiązania. -->

@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # ⚗️ Receptury
 
-TODO: Wymaga aktualizacji do nowej Edycji.
+<!-- TODO: Wymaga aktualizacji do nowej Edycji. -->
 
 | Receptura         | Składniki                                       | Czas gotowania | Destylacja | Starzenie/Drewno          | Alk    | Efekty |
 | ----------------- | ----------------------------------------------- | -------------- | ---------- | ------------------------- | ------ | ------ |

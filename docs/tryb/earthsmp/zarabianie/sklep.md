@@ -4,30 +4,22 @@ sidebar_position: 3
 
 # 🏪 Sklep
 
-TODO: Wymaga aktualizacji do nowej Edycji.
+Sklep dostępny jest pod komendą: `/sklep`.
 
-Sklep dostępny jest pod komendą `/sklep`.
+---
 
-**Dostępne Kategorie w sklepie:**
+### **Dostępne Kategorie w sklepie:**
 
 - Bloki
-
 - Rudy
-
 - Farma
-
 - Jedzenie
-
 - Redstone
-
 - Dekoracje
-
 - Dropy
-
 - Inne
-
-- Czarny Rynek (NIEDOSTĘPNE).
+- Specjalne
 
 :::tip
-Sprzedawać w sklepie możesz równierz poprzez `/sellgui`.
+Sprzedawać w sklepie możesz również poprzez komendę: `/sellgui`.
 :::
