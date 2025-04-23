@@ -7,7 +7,7 @@
 **MineCube App** to oficjalna aplikacja mobilna serwera Minecraft **MineCube**, zaprojektowana z myślą o wygodzie graczy 🎮  
 Dzięki niej możesz być zawsze na bieżąco — nawet **poza grą**! 🛰️
 
-## ⚙️ Funkcje Aplikacji
+## ⚙️ Funkcje Aplikacji {#funkcje}
 
 📊 **Statystyki w czasie rzeczywistym** – sprawdź swój postęp i dane gracza bez logowania się na serwer  
 📢 **Aktualności i ogłoszenia** – ważne informacje zawsze pod ręką  
@@ -18,7 +18,7 @@ Dzięki niej możesz być zawsze na bieżąco — nawet **poza grą**! 🛰️
 🧪 Funkcje aplikacji mogą ulec zmianie przed oficjalnym wydaniem.
 :::
 
-## 📥 Jak pobrać?
+## 📥 Jak pobrać? {#pobieranie}
 
 Aplikacja będzie dostępna w:
 
@@ -30,7 +30,7 @@ Aplikacja będzie dostępna w:
 Linki do pobrania pojawią się tutaj w dniu premiery.
 :::
 
-## 🔐 Jak się zalogować?
+## 🔐 Jak się zalogować? {#logowanie}
 
 1. Otwórz aplikację i kliknij **„Zaloguj”**
 2. Wejdź na serwer Minecraft i wpisz komendę:

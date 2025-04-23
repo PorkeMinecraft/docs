@@ -8,13 +8,13 @@ sidebar_position: 1
 
 Na serwerze **EarthSMP** alkohole odgrywają wyjątkową rolę, oferując graczom ciekawe doświadczenia i zabawę. Dzięki zaawansowanemu systemowi warzenia, każdy gracz ma możliwość tworzenia unikalnych trunków!
 
-## 🍷 Rodzaje Alkoholów
+## 🍷 Rodzaje Alkoholów {#rodzaje}
 
 Na naszym serwerze dostępne są różne rodzaje alkoholi, które można tworzyć i pić:
 
 - _Wkrótce dostępne..._
 
-## 🍺 Efekty Spożycia
+## 🍺 Efekty Spożycia {#efekty}
 
 Każdy napój alkoholowy ma swoje unikalne efekty:
 

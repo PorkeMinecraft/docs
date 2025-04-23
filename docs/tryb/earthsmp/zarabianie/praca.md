@@ -8,7 +8,7 @@ sidebar_position: 1
 
 Na naszym serwerze możesz dołączyć do jednej z wielu prac, które pozwalają zarabiać podczas zwykłej gry. 💼💰
 
-### 📋 Dostępne prace:
+### 📋 Dostępne prace: {#dostepne-prace}
 
 - ⛏️ **Górnik**
 - 🧱 **Kopacz**
@@ -18,7 +18,7 @@ Na naszym serwerze możesz dołączyć do jednej z wielu prac, które pozwalają
 - 🎣 **Rybak**
 - 🏗️ **Budowniczy**
 
-### 💼 Jak dołączyć do pracy?
+### 💼 Jak dołączyć do pracy? {#dolaczanie}
 
 Aby rozpocząć pracę, wykonaj jedno z poniższych:
 
@@ -27,7 +27,7 @@ Aby rozpocząć pracę, wykonaj jedno z poniższych:
 
 🔹 **Każdy gracz może mieć maksymalnie 3 aktywne prace jednocześnie.** ⚖️
 
-### ❌ Jak zrezygnować z pracy?
+### ❌ Jak zrezygnować z pracy? {#rezygnowanie}
 
 Z pracy możesz zrezygnować na dwa sposoby:
 

@@ -8,7 +8,7 @@ Sklep dostępny jest pod komendą: `/sklep` 🛍️.
 
 ---
 
-### 📂 Dostępne Kategorie w sklepie:
+### 📂 Dostępne Kategorie w sklepie: {#kategorie}
 
 - 🧱 **Bloki**
 - 💎 **Rudy**

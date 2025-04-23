@@ -8,7 +8,7 @@ sidebar_position: 6
 
 ---
 
-### 📍 Lokalizacja
+### 📍 Lokalizacja {#lokalizacja}
 
 Aby dostać się do strefy AFK, użyj komendy:
 
@@ -16,7 +16,7 @@ Aby dostać się do strefy AFK, użyj komendy:
 
 ---
 
-### 🎁 Nagrody
+### 🎁 Nagrody {#nagrody}
 
 Co godzinę otrzymujesz **klucz do skrzynki AFK**, gdzie znajdziesz różne nagrody!
 

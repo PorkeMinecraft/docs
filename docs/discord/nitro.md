@@ -7,7 +7,7 @@ sidebar_position: 2
 > _Każda osoba boostująca nasz serwer to prawdziwa **sigma** 💪_  
 > Cieszymy się z **każdego jednego boosta** — to dzięki Wam możemy się rozwijać! 💙💫
 
-## 🎁 Co zyskujesz, boostując nasz Discord?
+## 🎁 Co zyskujesz, boostując nasz Discord? {#benefity}
 
 ✨ **Rola "Booster"** na Discordzie  
 Zyskaj unikalną rolę, która wyróżni Cię wśród innych członków! 💎

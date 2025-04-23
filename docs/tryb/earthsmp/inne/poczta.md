@@ -8,7 +8,7 @@ Skrzynki Pocztowe mogą służyć do wysyłania listów lub prezentów oraz ich 
 
 ---
 
-### 🛠️ Crafting Skrzynki
+### 🛠️ Crafting Skrzynki {#crafting}
 
 Skrzynki pocztowe można stworzyć za pomocą poniższej receptury:
 

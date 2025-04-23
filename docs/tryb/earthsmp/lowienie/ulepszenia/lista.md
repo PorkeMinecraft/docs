@@ -1,5 +1,11 @@
 ---
 sidebar_position: 2
+description: Szczegółowa lista ulepszeń dostępnych w systemie łowienia na serwerze MineCube — poznaj wymagania, koszty, składniki i efekty każdego z ulepszeń, takich jak Hot Spot, Call of the Storm czy Sage.
+keywords:
+  - ulepszenia
+  - enchanty
+  - łowienie
+  - minecube
 ---
 
 import Tabs from "@theme/Tabs";
@@ -7,26 +13,26 @@ import TabItem from "@theme/TabItem";
 
 # 🧾 Lista Ulepszeń
 
-## ⚙️ Ulepszenia
+## ⚙️ Ulepszenia {#ulepszenia}
 
-| 🔹 Nazwa                                             | 🧍 Wymagany poziom | 🔼 Max lvl | 💰 Koszt |
-| ---------------------------------------------------- | ------------------ | ---------- | -------- |
-| [🔥 Hot Spot](#-hot-spot)                            | 10                 | 13         | 50,000   |
-| [🌧️ Call of the Storm](#%EF%B8%8F-call-of-the-storm) | 12                 | 5          | 40,000   |
-| [🍗 Saturate](#-saturate)                            | 12                 | 5          | 35,000   |
-| [📚 Sage](#-sage)                                    | 12                 | 10         | 57,000   |
-| [🌍 Biome Discruption](#-biome-discruption)          | 16                 | 3          | 60,000   |
-| [✂️ Precision Cutting](#%EF%B8%8F-precision-cutting) | 22                 | 8          | 70,000   |
-| [🦀 Crab Bait](#-crab-bait)                          | 25                 | 5          | 40,000   |
-| [🧠 Intellect](#-intellect)                          | 25                 | 10         | 50,000   |
-| [👁️ Perception](#%EF%B8%8F-perception)               | 28                 | 7          | 75,000   |
-| [🏆 Trophy](#-trophy)                                | 35                 | 6          | 60,000   |
-| [🌞 Solar Rage](#-solar-rage)                        | 35                 | 5          | 75,000   |
-| [🎣 Master Fisherman](#-master-fisherman)            | 45                 | 20         | 120,000  |
+| 🔹 Nazwa                                   | 🧍 Wymagany poziom | 🔼 Max lvl | 💰 Koszt |
+| ------------------------------------------ | ------------------ | ---------- | -------- |
+| [🔥 Hot Spot](#hot-spot)                   | 10                 | 13         | 50,000   |
+| [🌧️ Call of the Storm](#call-of-the-storm) | 12                 | 5          | 40,000   |
+| [🍗 Saturate](#saturate)                   | 12                 | 5          | 35,000   |
+| [📚 Sage](#sage)                           | 12                 | 10         | 57,000   |
+| [🌍 Biome Discruption](#biome-discruption) | 16                 | 3          | 60,000   |
+| [✂️ Precision Cutting](#precision-cutting) | 22                 | 8          | 70,000   |
+| [🦀 Crab Bait](#crab-bait)                 | 25                 | 5          | 40,000   |
+| [🧠 Intellect](#intellect)                 | 25                 | 10         | 50,000   |
+| [👁️ Perception](#perception)               | 28                 | 7          | 75,000   |
+| [🏆 Trophy](#trophy)                       | 35                 | 6          | 60,000   |
+| [🌞 Solar Rage](#solar-rage)               | 35                 | 5          | 75,000   |
+| [🎣 Master Fisherman](#master-fisherman)   | 45                 | 20         | 120,000  |
 
 ---
 
-### 🔥 Hot Spot
+### 🔥 Hot Spot {#hot-spot}
 
 <Tabs>
 
@@ -80,7 +86,7 @@ import TabItem from "@theme/TabItem";
 
 ---
 
-### 🌧️ Call of the Storm
+### 🌧️ Call of the Storm {#call-of-the-storm}
 
 <Tabs>
 
@@ -120,12 +126,12 @@ import TabItem from "@theme/TabItem";
 
 ---
 
-### 🍗 Saturate
+### 🍗 Saturate {#saturate}
 
 <Tabs>
 
   <TabItem value="dzialanie" label="Działanie" default>
-    **Saturate** daje ci szansę na odbudowanie poziomu głodu, kiedy złowisz rybę. Im wyższy jest poziom tego ulepszenia, tym większa jest szansa na odnowienie poziomu głodu.
+    **Saturate** daje Ci szansę na przywrócenie punktów głodu po złowieniu ryby. Im wyższy jest poziom tego ulepszenia, tym większa jest szansa na odnowienie poziomu głodu.
   </TabItem>
 
   <TabItem value="statystyki" label="Statystyki">
@@ -157,7 +163,7 @@ import TabItem from "@theme/TabItem";
 
 ---
 
-### 📚 Sage
+### 📚 Sage {#sage}
 
 <Tabs>
 
@@ -201,7 +207,7 @@ import TabItem from "@theme/TabItem";
 
 ---
 
-### 🌍 Biome Discruption
+### 🌍 Biome Discruption {#biome-discruption}
 
 <Tabs>
 
@@ -245,7 +251,7 @@ import TabItem from "@theme/TabItem";
 
 ---
 
-### ✂️ Precision Cutting
+### ✂️ Precision Cutting {#precision-cutting}
 
 <Tabs>
 
@@ -290,7 +296,7 @@ import TabItem from "@theme/TabItem";
 
 ---
 
-### 🦀 Crab Bait
+### 🦀 Crab Bait {#crab-bait}
 
 <Tabs>
 
@@ -326,7 +332,7 @@ import TabItem from "@theme/TabItem";
 
 ---
 
-### 🧠 Intellect
+### 🧠 Intellect {#intellect}
 
 <Tabs>
 
@@ -368,7 +374,7 @@ import TabItem from "@theme/TabItem";
 
 ---
 
-### 👁️ Perception
+### 👁️ Perception {#perception}
 
 <Tabs>
 
@@ -407,7 +413,7 @@ import TabItem from "@theme/TabItem";
 
 ---
 
-### 🏆 Trophy
+### 🏆 Trophy {#trophy}
 
 <Tabs>
 
@@ -446,7 +452,7 @@ import TabItem from "@theme/TabItem";
 
 ---
 
-### 🌞 Solar Rage
+### 🌞 Solar Rage {#solar-rage}
 
 <Tabs>
 
@@ -484,7 +490,7 @@ import TabItem from "@theme/TabItem";
 
 ---
 
-### 🎣 Master Fisherman
+### 🎣 Master Fisherman {#master-fisherman}
 
 <Tabs>
 

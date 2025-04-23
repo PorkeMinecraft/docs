@@ -9,11 +9,11 @@ import TabItem from "@theme/TabItem";
 
 Na **EarthSMP**, zbroje, kilofy, miecze i inne przedmioty netherytowe craftujemy bez użycia szablonów, w tradycyjny sposób. 🔨
 
-## 📝 Receptury
+## 📝 Receptury {#receptury}
 
 <!-- TODO: Zaaktualizować grafiki. -->
 
-### 🛡️ Zbroja
+### 🛡️ Zbroja {#zbroja}
 
 <Tabs>
   <TabItem value="helm" label="Hełm" default>
@@ -30,7 +30,7 @@ Na **EarthSMP**, zbroje, kilofy, miecze i inne przedmioty netherytowe craftujemy
   </TabItem>
 </Tabs>
 
-### 🛠️ Narzędzia
+### 🛠️ Narzędzia {#narzedzia}
 
 <Tabs>
   <TabItem value="miecz" label="Miecz" default>

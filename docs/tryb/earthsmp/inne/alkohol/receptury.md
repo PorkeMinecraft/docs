@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: Niektóre receptury do tworzenia alkoholu
 ---
 
 # ⚗️ Receptury

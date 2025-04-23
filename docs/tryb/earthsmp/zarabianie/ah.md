@@ -10,7 +10,7 @@ Dom Aukcyjny (AH) to miejsce, gdzie możesz **kupować i sprzedawać przedmioty*
 
 ---
 
-### 🛒 Jak sprzedawać w Domu Aukcyjnym?
+### 🛒 Jak sprzedawać w Domu Aukcyjnym? {#sprzedawanie}
 
 1. Trzymaj w ręce przedmiot, który chcesz sprzedać. 🧳
 2. Wpisz komendę:  
@@ -25,7 +25,7 @@ Dom Aukcyjny (AH) to miejsce, gdzie możesz **kupować i sprzedawać przedmioty*
 
 ---
 
-### 🛍️ Jak kupować w Domu Aukcyjnym?
+### 🛍️ Jak kupować w Domu Aukcyjnym? {#kupowanie}
 
 1. Otwórz AH komendą: `/ah` 🔍
 2. Przeglądaj dostępne przedmioty i kliknij **LPM** na ten, który Cię interesuje. 👇

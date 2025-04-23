@@ -1,25 +1,31 @@
 ---
 sidebar_position: 1
+description: Dowiedz się, czym są ulepszenia wędki, jak je stworzyć i używać w naszym systemie łowienia.
+keywords:
+  - ulepszenia
+  - enchanty
+  - łowienie
+  - minecube
 ---
 
 # 📖 Informacje Początkowe
 
-## ✨ Czym są Ulepszenia?
+## ✨ Czym są Ulepszenia? {#czym-sa-ulepszenia}
 
 **Ulepszenia** to niestandardowe zaklęcia tworzone przy użyciu **kotła**.  
 Obecnie można je zastosować **tylko na wędce** 🎣.
 
 ---
 
-## 🧪 Jak stworzyć ulepszenia?
+## 🧪 Jak stworzyć ulepszenia? {#tworzenie}
 
 Ulepszenia można wytworzyć, wrzucając **wymagane przedmioty** do **kotła**, a następnie **uderzając go wędką**.
 
-📘 Szczegółowy przewodnik dotyczący tworzenia znajdziesz [tutaj](lista#%EF%B8%8F-ulepszenia).
+📘 Szczegółowy przewodnik dotyczący tworzenia znajdziesz [tutaj](lista#ulepszenia).
 
 ---
 
-## 🪝 Jak umieścić ulepszenia na wędce?
+## 🪝 Jak umieścić ulepszenia na wędce? {#dodawanie}
 
 Zakładanie ulepszeń na wędkę jest bardzo proste. Wykonaj te kilka kroków:
 
@@ -31,7 +37,7 @@ Zakładanie ulepszeń na wędkę jest bardzo proste. Wykonaj te kilka kroków:
 
 ---
 
-## ❌ Jak usunąć ulepszenia?
+## ❌ Jak usunąć ulepszenia? {#usuwanie}
 
 Usunięcie ulepszeń również jest bardzo proste, jednak **wymaga 25,000 Entropii** 🌌.
 
@@ -43,6 +49,26 @@ Aby usunąć ulepszenia z wędki:
 4. Ulepszenia zostaną **zwrócone do Twojego ekwipunku** (lub **spadną na ziemię**, jeśli nie masz miejsca).
 
 ![zwroty](assets/zwroty.png)
+
+⚠️ _Upewnij się, że masz miejsce w ekwipunku przed usunięciem ulepszenia, aby nie stracić go przez przypadek!_
+
+---
+
+## ❓ Często Zadawane Pytania (FAQ) {#faq}
+
+### 🔹 Czy mogę mieć kilka ulepszeń na jednej wędce?
+
+Tak, możesz dodać wiele ulepszeń, o ile są ze sobą kompatybilne.
+
+### 🔹 Czy ulepszenia działają w PvP?
+
+Nie — ulepszenia są zaprojektowane wyłącznie z myślą o łowieniu ryb i rozgrywce PvE.
+
+---
+
+## 🛠️ Potrzebujesz pomocy? {#pomoc}
+
+Jeśli coś nie działa lub masz pytanie, zgłoś to na naszym [serwerze Discord](https://dc.minecube.pl) lub napisz do administracji na czacie w grze!
 
 ---
 
