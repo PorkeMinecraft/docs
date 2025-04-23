@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # ⚖️ Łuskowanie
 
-## 💡 Do czego służy Łuskowanie?
+## 💡 Do czego służy Łuskowanie? {#do-czego}
 
 **Łuskowanie** pozwala ryzykować i próbować zdobyć **więcej pieniędzy** za złowione ryby — albo stracić część ich wartości 🐟💸
 
@@ -21,9 +21,9 @@ Każda przeskalowana ryba zyskuje losową **wagę** ⚖️ – ta waga wpływa *
 
 ---
 
-## ❓ FAQ
+## ❓ FAQ {#faq}
 
-### 🤔 Co się stanie, jeśli ułożę ryby w jeden slot?
+### 🤔 Co się stanie, jeśli ułożę ryby w jeden slot? {#co-sie-stanie-jesli-uloze-ryby-w-jeden-slot}
 
 📌 **Wszystkie ryby w jednym slocie** zostaną przeskalowane **tą samą wartością**. To znaczy – zysk lub strata będą identyczne dla całego stosu.
 

@@ -6,20 +6,20 @@ sidebar_position: 3
 
 **Ta strona zawiera informacje o różnych umiejętnościach wędkarskich dostępnych w `/fish skills`.**
 
-## 🤔 Czym są umiejętności?
+## 🤔 Czym są umiejętności? {#czym-sa}
 
 Na **MineCube** dostępnych jest 10 różnych umiejętności, które możesz ulepszać. Aby ulepszyć umiejętności, potrzebujesz punktów umiejętności. Za każdym razem, gdy zdobywasz kolejny poziom w łowieniu, zdobywasz **jeden punkt umiejętności**. 💡
 
-## Rodzaje umiejętności
+## Rodzaje umiejętności {#rodzaje}
 
 Obecnie istnieją dwa różne typy umiejętności, a każda z nich ma inny wpływ:
 
-### 🔧 Ulepszenia Umiejętności
+### 🔧 Ulepszenia Umiejętności {#ulepszenia}
 
 Obecnie dostępnych jest 10 umiejętności, które można ulepszyć. 👇
 ![Ulepszenia](./assets/umiejetnosci.png)
 
-### 🛒 Umiejętności Zakupu Jednorazowego
+### 🛒 Umiejętności Zakupu Jednorazowego {#umiejetnosci-jednorazowe}
 
 Umiejętności te działają raczej jako efekty „pasywne” niż jako aktywne umiejętności. Ich zakup kosztuje stałą liczbę punktów umiejętności (zwykle **10**). Po zakupie umiejętność ta będzie zawsze aktywna.
 
@@ -27,9 +27,9 @@ Te umiejętności skalują się wraz z Twoim poziomem łowienia. Oznacza to, że
 
 Aby zmaksymalizować wykorzystanie tych umiejętności - spróbuj zdobyć jak najwięcej poziomów! 🚀
 
-## 🏆 Jakie umiejętności ustnieją?
+## 🏆 Jakie umiejętności ustnieją? {#umiejetnosci}
 
-### Umiejętności, które można ulepszać:
+### Umiejętności, które można ulepszać: {#umiejetnosci-ulepszalne}
 
 | 📝 Nazwa                  | 💬 Opis                                                |
 | ------------------------- | ------------------------------------------------------ |
@@ -38,7 +38,7 @@ Aby zmaksymalizować wykorzystanie tych umiejętności - spróbuj zdobyć jak na
 | 🛠 **Mistrz ulepszeń**     | Obniża koszty tworzenia ulepszeń wędkarskich.          |
 | ⏳ **Lider totemu**       | Zmniejsza czas odnowienia totemu podczas łowienia ryb. |
 
-### Umiejętności, które można kupić jednorazowo:
+### Umiejętności, które można kupić jednorazowo: {#umiejetnosci-jednorazowe}
 
 | 📝 Nazwa                    | 💬 Opis                                                                                                                                            |
 | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |

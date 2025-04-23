@@ -4,7 +4,7 @@ sidebar_position: 9
 
 # 🎖 Turnieje
 
-## 🐟 Czym są turnieje?
+## 🐟 Czym są turnieje? {#czym-sa}
 
 **Turnieje** to **najszybszy sposób na zdobycie pieniędzy 💰 i ulepszeń 🔧**.  
 Na serwerze codziennie odbywa się **aż 8 turniejów**, które rozgrywają się o następujących godzinach:
@@ -26,7 +26,7 @@ Turniej trwa **10 minut**, podczas których musisz złowić **jak najwięcej** l
 
 ---
 
-## 🧩 Rodzaje turniejów
+## 🧩 Rodzaje turniejów {#rodzaje}
 
 Na serwerze znajduje się **8 różnych rodzajów turniejów** – każdy z innym celem:
 

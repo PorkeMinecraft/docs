@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # ✨ Entropia
 
-## 💡 Czym jest entropia?
+## 💡 Czym jest entropia? {#co-to}
 
 Entropia to specjalna waluta używana w systemie wędkarstwa. Zdobywasz ją w różnych formach i wykorzystujesz do tworzenia [ulepszeń](umiejetnosci), [totemów](totemy) oraz [ulepszania dostaw](dostawy) w komendzie `/fish deliveries`.
 
@@ -12,7 +12,7 @@ Entropia to specjalna waluta używana w systemie wędkarstwa. Zdobywasz ją w r�
 
 ---
 
-## 🎣 Jak zdobyć entropię?
+## 🎣 Jak zdobyć entropię? {#zdobywanie}
 
 Istnieje wiele sposobów na zdobycie entropii. Poniżej znajdziesz tabelę prezentującą przykładowe wartości:
 
@@ -31,7 +31,7 @@ Podane wartości to wartości bazowe i mogą się zmieniać w zależności od ul
 
 ---
 
-## 🛠️ Najlepsze ulepszenia
+## 🛠️ Najlepsze ulepszenia {#ulepszenia}
 
 Aby zmaksymalizować zyski z entropii, warto zainwestować w odpowiednie ulepszenia:
 
@@ -44,13 +44,13 @@ Aby zmaksymalizować zyski z entropii, warto zainwestować w odpowiednie ulepsze
 
 ---
 
-## ⚡ Boostery
+## ⚡ Boostery {#boostery}
 
 Najprostszym sposobem na pomnożenie entropii są **boostery**. Można je zdobyć m.in. z [nagród za dostawy](dostawy). Warto je zbierać i używać w odpowiednim momencie, by znacząco zwiększyć zyski.
 
 ---
 
-## 🪄 Totemy
+## 🪄 Totemy {#totemy}
 
 Totemy to kolejny skuteczny sposób na zdobycie większej ilości entropii. W szczególności:
 
@@ -59,7 +59,7 @@ Totemy to kolejny skuteczny sposób na zdobycie większej ilości entropii. W sz
 
 ---
 
-## 🧠 Umiejętności
+## 🧠 Umiejętności {#umiejetnosci}
 
 Nie zapominaj o inwestowaniu punktów w **umiejętności wędkarskie**! Szczególnie polecane są:
 

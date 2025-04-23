@@ -4,11 +4,11 @@ sidebar_position: 5
 
 # 🗼 Totemy Wędkarskie
 
-## 🎣 Jak zdobyć Totem Wędkarski?
+## 🎣 Jak zdobyć Totem Wędkarski? {#jak-zdobyc}
 
 Zdobycie Totemu Wędkarskiego jest proste – wystarczy zbudować strukturę i zebrać odpowiednie przedmioty.
 
-### 🧾 Wymagane przedmioty
+### 🧾 Wymagane przedmioty {#przedmioty}
 
 - 🐬 16 [Ogonów Delfina](podstawy#-kraby)
 - 🦀 16 [Pazurów Kraba](podstawy#-kraby)
@@ -22,7 +22,7 @@ Aby aktywować Totem, potrzebujesz **20 poziomu wędkarstwa**. Możesz to sprawd
 
 ---
 
-## ⚙️ Jak aktywować Totem?
+## ⚙️ Jak aktywować Totem? {#aktywacja}
 
 Gdy masz wszystkie materiały i wymagany poziom:
 
@@ -39,13 +39,13 @@ Kierunek schodków **nie ma znaczenia** – mogą być ustawione w dowolną stro
 
 ---
 
-## ✨ Co robi aktywowany Totem?
+## ✨ Co robi aktywowany Totem? {#co-robi}
 
 Totem daje różne korzyści i efekty. Niektóre z nich wymagają ulepszeń za Entropię, inne zaś odpowiedniego poziomu połowu i pasywnych slotów.
 
 ---
 
-## 🧪 Ulepszenia Totemu (Entropia)
+## 🧪 Ulepszenia Totemu (Entropia) {#ulepszenia}
 
 Totem można ulepszyć za pomocą Entropii – każde ulepszenie zwiększa jego skuteczność:
 
@@ -67,7 +67,7 @@ Zwiększaj promień tylko wtedy, gdy totem ma obejmować większy obszar, np. je
 
 ---
 
-## 🧩 Sloty pasywne
+## 🧩 Sloty pasywne {#sloty-pasywne}
 
 Pasywne sloty są potrzebne do aktywowania pasywnych ulepszeń Totemu.
 
@@ -88,7 +88,7 @@ Ryby muszą być tego **samego rodzaju** – nie można mieszać mitycznych i pl
 
 ---
 
-## 💎 Pasywne ulepszenia Totemu
+## 💎 Pasywne ulepszenia Totemu {#pasywne-ulepszenia}
 
 Ulepszenia te są **oddzielne** od ulepszeń Entropii – wymagają odpowiedniego poziomu wędkarstwa i dostępnych slotów.
 

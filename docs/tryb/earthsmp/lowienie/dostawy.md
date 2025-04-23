@@ -4,7 +4,7 @@ sidebar_position: 8
 
 # 🚌 Dostawy
 
-## 💰 Jak zarabiać na dostawach?
+## 💰 Jak zarabiać na dostawach? {#zarabianie}
 
 Za każde **180 złowionych ryb** otrzymujesz jedną 📦 **Dostawę**.
 
@@ -15,7 +15,7 @@ Możesz również sprawdzić swój postęp w menu ryb – wystarczy najechać na
 
 ---
 
-## ⚙️ Jak działają dostawy?
+## ⚙️ Jak działają dostawy? {#dzialanie}
 
 Mechanika dostaw jest prosta, a nagrody bardzo opłacalne! ✨
 
@@ -27,7 +27,7 @@ Mechanika dostaw jest prosta, a nagrody bardzo opłacalne! ✨
 
 ---
 
-## 🛠️ Ulepszenia dostaw
+## 🛠️ Ulepszenia dostaw {#ulepszenia}
 
 Możesz rozwinąć pięć **specjalnych ulepszeń**, które ułatwią realizację dostaw i zwiększą zyski:
 

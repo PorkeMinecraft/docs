@@ -2,7 +2,7 @@
 
 Najczęściej zadawane Pytania:
 
-### 🟣 Macie Discorda? {#discord}
+### 🎙️ Macie Discorda? {#discord}
 
 Oczywiście że tak! Dołączyć na niego możesz poprzez [https://discord.gg/minecube](https://discord.gg/minecube) 🎉
 

@@ -4,7 +4,7 @@ sidebar_position: 7
 
 # ⚔️ Stacja Patroszenia
 
-## 🐟 Co to jest patroszenie ryb?
+## 🐟 Co to jest patroszenie ryb? {#co-to}
 
 „Patroszenie” to mechanika polegająca na rozkładaniu złowionych ryb w celu uzyskania dodatkowej 🧬 Entropii.
 
@@ -14,7 +14,7 @@ sidebar_position: 7
 
 ---
 
-## 🛠️ Jak patroszyć ryby?
+## 🛠️ Jak patroszyć ryby? {#jak}
 
 Patroszenie jest bardzo proste:
 
@@ -28,7 +28,7 @@ Patroszenie jest bardzo proste:
 
 ---
 
-## 💡 Jak zwiększyć zysk z patroszenia?
+## 💡 Jak zwiększyć zysk z patroszenia? {#wiekszy-zysk}
 
 Obecnie masz **dwa główne sposoby**, by zwiększyć Entropię z patroszenia:
 
@@ -39,7 +39,7 @@ Obecnie masz **dwa główne sposoby**, by zwiększyć Entropię z patroszenia:
 
 ---
 
-### 🔬 Precision Cutting
+### 🔬 Precision Cutting {#precision-cutting}
 
 Ulepszenie, które możesz odblokować dla swojego **Totemu Wędkarskiego**, zwiększające zyski z patroszenia.
 
@@ -47,7 +47,7 @@ Ulepszenie, które możesz odblokować dla swojego **Totemu Wędkarskiego**, zwi
 
 ---
 
-### 📚 Lepsze Patroszenie
+### 📚 Lepsze Patroszenie {#lepsze-patroszenie}
 
 Umiejętność pasywna, którą możesz rozwijać w swoim drzewku umiejętności.
 
