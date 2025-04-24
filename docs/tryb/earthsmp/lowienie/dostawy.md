@@ -1,5 +1,15 @@
 ---
 sidebar_position: 8
+description: Dowiedz się, jak działa system dostaw na serwerze – zdobywaj ryby, odblokowuj paczki i zgarniaj entropię oraz nagrody dzięki specjalnym ulepszeniom!
+keywords:
+  - dostawy
+  - wędkarstwo
+  - entropia
+  - ulepszenia
+  - ryby
+  - nagrody
+  - pasywny zysk
+  - system ryb
 ---
 
 # 🚌 Dostawy

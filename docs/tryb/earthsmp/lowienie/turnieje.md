@@ -1,5 +1,15 @@
 ---
 sidebar_position: 9
+description: Weź udział w codziennych turniejach wędkarskich i rywalizuj z innymi graczami o cenne nagrody! Zgarnij dolary, klucze, entropię i pokaż, kto tu rządzi nad wodą.
+keywords:
+  - turnieje
+  - wędkarstwo
+  - rywalizacja
+  - eventy
+  - entropia
+  - ryby
+  - łowienie
+  - nagrody
 ---
 
 # 🎖 Turnieje

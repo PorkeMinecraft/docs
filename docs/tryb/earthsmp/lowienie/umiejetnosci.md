@@ -1,5 +1,15 @@
 ---
 sidebar_position: 3
+description: Poznaj wszystkie umiejętności wędkarskie dostępne na serwerze – od ulepszeń, przez efekty pasywne, po jednorazowe zakupy. Naucz się, jak zdobywać i wydawać punkty umiejętności!
+keywords:
+  - umiejętności
+  - wędkarstwo
+  - punkty umiejętności
+  - ulepszenia
+  - entropia
+  - pasywne efekty
+  - łowienie
+  - boski sąd
 ---
 
 # 🎇 Umiejętności

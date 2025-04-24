@@ -1,5 +1,15 @@
 ---
 sidebar_position: 7
+description: Dowiedz się, czym jest patroszenie ryb, jak przebiega ten proces i jak zwiększyć ilość zdobywanej Entropii dzięki ulepszeniom i umiejętnościom.
+keywords:
+  - patroszenie
+  - entropia
+  - stacja patroszenia
+  - ryby
+  - ulepszenia
+  - precision cutting
+  - lepsze patroszenie
+  - wędkarstwo
 ---
 
 # ⚔️ Stacja Patroszenia

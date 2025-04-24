@@ -1,5 +1,15 @@
 ---
 sidebar_position: 5
+description: Dowiedz się, jak działa łuskowanie ryb i w jaki sposób możesz zwiększyć lub zmniejszyć ich wartość. Podejmij ryzyko i sprawdź, ile możesz zyskać!
+keywords:
+  - łuskowanie
+  - ryby
+  - ceny
+  - hazard
+  - GUI
+  - przeskalowanie
+  - sprzedaż ryb
+  - wędkarstwo
 ---
 
 # ⚖️ Łuskowanie

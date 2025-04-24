@@ -1,5 +1,15 @@
 ---
 sidebar_position: 4
+description: Poznaj najważniejszą walutę systemu wędkarstwa – Entropię. Dowiedz się, jak ją zdobywać, pomnażać i w co inwestować, by maksymalnie zwiększyć swoje zyski!
+keywords:
+  - entropia
+  - waluta
+  - wędkarstwo
+  - ulepszenia
+  - totemy
+  - boostery
+  - umiejętności
+  - ryby
 ---
 
 # ✨ Entropia

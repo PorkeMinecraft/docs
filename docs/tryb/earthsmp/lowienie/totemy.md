@@ -1,5 +1,15 @@
 ---
 sidebar_position: 5
+description: Dowiedz się, czym są Totemy Wędkarskie, jak je zdobyć i aktywować, a także jakie ulepszenia i pasywne efekty możesz odblokować. Zgarnij więcej XP, Entropii i łupów dzięki mocy Totemu!
+keywords:
+  - totem
+  - wędkarstwo
+  - ulepszenia
+  - entropia
+  - pasywne efekty
+  - ryby
+  - łowienie
+  - XP
 ---
 
 # 🗼 Totemy Wędkarskie
