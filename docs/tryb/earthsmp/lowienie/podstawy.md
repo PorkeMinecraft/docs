@@ -59,8 +59,8 @@ Twój poziom połowu wpływa na różne aspekty gry, takie jak:
 
 Istnieje kilka sposobów, aby zwiększyć przyrost XP:
 
-- [**Ulepszenie Sage**](ulepszenia/lista#-sage) — zwiększa zdobywane XP.
-- [**Ulepszenie w totemie "Doświadczony rybak"**](totemy#-ulepszenia-totemu-entropia) — dodatkowy bonus do XP.
+- [**Ulepszenie Sage**](ulepszenia/lista#sage) — zwiększa zdobywane XP.
+- [**Ulepszenie w totemie "Doświadczony rybak"**](totemy#ulepszenia) — dodatkowy bonus do XP.
 
 Możesz sprawdzić swój poziom w dowolnym momencie, korzystając z komendy `/fish stats`. 📊
 

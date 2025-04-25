@@ -48,9 +48,9 @@ Aby zmaksymalizować zyski z entropii, warto zainwestować w odpowiednie ulepsze
 | ⚙️ Ulepszenie                                                            | 📌 Działanie                                                            |
 | ------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
 | [🔥 **Hot Spot**](ulepszenia/lista#hot-spot)                             | Pozwala złowić kilka ryb jednocześnie, co zwiększa zyski z patroszenia. |
-| [🌧️ **Call of the Storm**](ulepszenia/lista#%EF%B8%8F-call-of-the-storm) | Działa podobnie do Hot Spot, ale aktywuje się podczas deszczu.          |
-| [✂️ **Precision Cutting**](ulepszenia/lista#%EF%B8%8F-precision-cutting) | Zwiększa ilość entropii zdobywanej z patroszenia.                       |
-| [👁️ **Perception**](ulepszenia/lista#%EF%B8%8F-perception)               | Mnoży podstawową ilość entropii zdobywaną podczas łowienia ryb.         |
+| [🌧️ **Call of the Storm**](ulepszenia/lista#call-of-the-storm) | Działa podobnie do Hot Spot, ale aktywuje się podczas deszczu.          |
+| [✂️ **Precision Cutting**](ulepszenia/lista#precision-cutting) | Zwiększa ilość entropii zdobywanej z patroszenia.                       |
+| [👁️ **Perception**](ulepszenia/lista#perception)               | Mnoży podstawową ilość entropii zdobywaną podczas łowienia ryb.         |
 
 ---
 
@@ -64,7 +64,7 @@ Najprostszym sposobem na pomnożenie entropii są **boostery**. Można je zdoby�
 
 Totemy to kolejny skuteczny sposób na zdobycie większej ilości entropii. W szczególności:
 
-- Umiejętność [✨ **Horyzont Entropii**](totemy#-pasywne-ulepszenia-totemu) może zwiększyć zyski nawet o **25%**.
+- Umiejętność [✨ **Horyzont Entropii**](totemy#pasywne-ulepszenia) może zwiększyć zyski nawet o **25%**.
 - 🌊 **Mityczne Wody** i 🎣 **Szkoła Rybaka** zwiększają liczbę ryb, co sprawia, że **Hot Spot** i **Call of the Storm** aktywują się częściej.
 
 ---
@@ -73,14 +73,14 @@ Totemy to kolejny skuteczny sposób na zdobycie większej ilości entropii. W sz
 
 Nie zapominaj o inwestowaniu punktów w **umiejętności wędkarskie**! Szczególnie polecane są:
 
-- [🔪 **Lepsze patroszenie**](umiejetnosci#umiejętności-które-można-ulepszać) – zwiększa entropię z patroszenia.
-- [🍀 **Szczęście w połowie**](umiejetnosci#umiejętności-które-można-ulepszać) – zwiększa entropię ze złowionych ryb.
+- [🔪 **Lepsze patroszenie**](umiejetnosci#umiejetnosci-ulepszalne) – zwiększa entropię z patroszenia.
+- [🍀 **Szczęście w połowie**](umiejetnosci#umiejetnosci-ulepszalne) – zwiększa entropię ze złowionych ryb.
 
 Możesz również wzmocnić swoją wędkę ulepszeniami, takimi jak:
 
-- [🎣 **Master Fisherman**](ulepszenia/lista#-master-fisherman)
-- [👁️ **Perception**](ulepszenia/lista#%EF%B8%8F-perception)
-- [✂️ **Precision Cutting**](ulepszenia/lista#%EF%B8%8F-precision-cutting)
+- [🎣 **Master Fisherman**](ulepszenia/lista#master-fisherman)
+- [👁️ **Perception**](ulepszenia/lista#perception)
+- [✂️ **Precision Cutting**](ulepszenia/lista#precision-cutting)
 
 ---
 

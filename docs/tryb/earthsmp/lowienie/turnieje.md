@@ -29,7 +29,7 @@ Turniej trwa **10 minut**, podczas których musisz złowić **jak najwięcej** l
 
 📊 Po zakończeniu turnieju pojawi się **tabela wyników**, a gracze z najwyższymi miejscami otrzymają nagrody:
 
-🥇 **1. miejsce** – `10,000$` + 🎁 [1 klucz rybaka](podstawy#-skrzynia-rybaka)  
+🥇 **1. miejsce** – `10,000$` + 🎁 [1 klucz rybaka](podstawy#skrzynia)  
 🥈 **2. miejsce** – `6,500$`  
 🥉 **3. miejsce** – `2,500$`  
 🎣 Pozostali gracze – `1,500 🌌 Entropii`

@@ -42,8 +42,8 @@ Patroszenie jest bardzo proste:
 
 Obecnie masz **dwa główne sposoby**, by zwiększyć Entropię z patroszenia:
 
-- ✂️ [Precision Cutting](ulepszenia/lista#%EF%B8%8F-precision-cutting)
-- 🎣 [Lepsze Patroszenie](umiejetnosci#umiejętności-które-można-ulepszać) _(umiejętność wędkarza)_
+- ✂️ [Precision Cutting](ulepszenia/lista#precision-cutting)
+- 🎣 [Lepsze Patroszenie](umiejetnosci#umiejetnosci-ulepszalne) _(umiejętność wędkarza)_
 
 🧠 Te dwa bonusy **nie kumulują się ze sobą**, ale działają niezależnie na podstawowy zysk z patroszenia.
 
