@@ -212,7 +212,7 @@ import TabItem from "@theme/TabItem";
 <Tabs>
 
   <TabItem value="dzialanie" label="Działanie" default>
-    Daje szansę na złowienie ryb z dowolnego biomu podczas łowienia. Nie dotyczy to ryb, które mają dodatkowe wymagania połowowe.
+    **Biome Discruption** umożliwia łowienie ryb z różnych biomów bez względu na Twoją aktualną lokalizację. Nie dotyczy ryb z dodatkowymi wymaganiami.
   </TabItem>
 
   <TabItem value="statystyki" label="Statystyki">
@@ -256,7 +256,7 @@ import TabItem from "@theme/TabItem";
 <Tabs>
 
   <TabItem value="dzialanie" label="Działanie" default>
-    Daje ci więcej entropi z patroszenia ryb przy użyciu stacji do patroszenia.
+    **Precision Cutting** daje ci więcej entropi z patroszenia ryb przy użyciu stacji do patroszenia.
     Im wyższy jest poziom tego ulepszenia tym więcej entropi uzyskasz.
   </TabItem>
 
@@ -301,7 +301,7 @@ import TabItem from "@theme/TabItem";
 <Tabs>
 
   <TabItem value="dzialanie" label="Działanie" default>
-    Zwiększa szansę na złapanaie kraba podczas łowienia. To ulepszenie może ci poóc w zbieraniu składników na inne ulepszenia.
+    **Crab Bait** zwiększa szansę na złapanaie kraba podczas łowienia. To ulepszenie może ci poóc w zbieraniu składników na inne ulepszenia.
   </TabItem>
 
   <TabItem value="statystyki" label="Statystyki">
@@ -337,7 +337,7 @@ import TabItem from "@theme/TabItem";
 <Tabs>
 
   <TabItem value="dzialanie" label="Działanie" default>
-    Daje ci więcej punktów doświadczenia za każdym razem kiedy złowisz rzadką rybę. Im wyższy jest poziom tego ulepszenia tym więcej punktów doświadczenia (punktów xp) otrzymasz za złowienie rzadkich ryb
+    **Intellect** daje więcej punktów doświadczenia za każdym razem kiedy złowisz rzadką rybę. Im wyższy jest poziom tego ulepszenia tym więcej punktów doświadczenia (punktów xp) otrzymasz za złowienie rzadkich ryb
   </TabItem>
 
   <TabItem value="statystyki" label="Statystyki">
@@ -379,7 +379,7 @@ import TabItem from "@theme/TabItem";
 <Tabs>
 
   <TabItem value="dzialanie" label="Działanie" default>
-    Daje ci więcej punkty entropi za złowienie rzadkich ryb. Im wyższy poziom tego ulepszenia tym więcej dodatkowej entropi otrzymasz.
+    **Perception** daje więcej punkty entropi za złowienie rzadkich ryb. Im wyższy poziom tego ulepszenia tym więcej dodatkowej entropi otrzymasz.
   </TabItem>
 
   <TabItem value="statystyki" label="Statystyki">
@@ -418,7 +418,7 @@ import TabItem from "@theme/TabItem";
 <Tabs>
 
   <TabItem value="dzialanie" label="Działanie" default>
-    Daje ci więcej szansę na zdobycie większego zarobku podczas łuskowania. Im wyższy jest poziom tego ulepszenia tym większa jest szansa na zarobek z łuskowania.
+   **Trophy** daje więcej szansę na zdobycie większego zarobku podczas łuskowania. Im wyższy jest poziom tego ulepszenia tym większa jest szansa na zarobek z łuskowania.
   </TabItem>
 
   <TabItem value="statystyki" label="Statystyki">
@@ -457,7 +457,7 @@ import TabItem from "@theme/TabItem";
 <Tabs>
 
   <TabItem value="dzialanie" label="Działanie" default>
-    Daje ci więcej pieniędzy kiedy sprzedajesz ryby w sklepie. Im wyższy jest poziom tego ulepszenia tym większa otrzymasz premię za sprzedaży ryb.
+    **Solar Rage** daje więcej pieniędzy kiedy sprzedajesz ryby w sklepie. Im wyższy jest poziom tego ulepszenia tym większa otrzymasz premię za sprzedaży ryb.
   </TabItem>
 
   <TabItem value="statystyki" label="Statystyki">
@@ -495,7 +495,7 @@ import TabItem from "@theme/TabItem";
 <Tabs>
 
   <TabItem value="dzialanie" label="Działanie" default>
-    Zwiększa twoją szansę na złowienie ryby wyższego poziomu. To ulepszenie jest przeznaczone tylko dla najbardziej doświadczonych wędkarzy.
+    **Master Fisherman** zwiększa twoją szansę na złowienie ryby wyższego poziomu. To ulepszenie jest przeznaczone tylko dla najbardziej doświadczonych wędkarzy.
   </TabItem>
 
   <TabItem value="statystyki" label="Statystyki">
