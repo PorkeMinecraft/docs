@@ -1,41 +1,64 @@
-# Website
+# MineCube Wiki
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Ta strona została zbudowana przy użyciu [Docusaurus](https://docusaurus.io/).
 
-### Installation
+## 📦 Wymagania
 
-```
-$ yarn
-```
+- **Node.js `>=18.0`**
+- **pnpm** jako menedżer pakietów
 
-### Local Development
+Jeśli nie masz pnpm, zainstaluj go globalnie:
 
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
+```bash
+npm install -g pnpm
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+---
 
-### Deployment
+## 🔧 Instalacja
 
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
+```bash
+pnpm install
 ```
 
-Not using SSH:
+---
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
+## 🚀 Lokalny serwer deweloperski
+
+```bash
+pnpm start
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Po uruchomieniu strona otworzy się w przeglądarce. Zmiany w plikach będą widoczne natychmiast.
+
+---
+
+## 🏗️ Budowanie strony
+
+```bash
+pnpm build
+```
+
+Wygeneruje statyczne pliki w katalogu `build/`.
+
+---
+
+## 🧹 Czyszczenie cache
+
+```bash
+pnpm docusaurus clear
+```
+
+Usuwa cache oraz pliki builda, przydatne gdy coś się „psuje”.
+
+---
+
+## 💡 Wskazówki
+
+- W razie problemów z Webpackem spróbuj użyć `pnpm docusaurus clear`
+- Pliki wiki znajdują się w `docs/`
+- Najbardziej będzie ciebie interesować polecenie `start`
+
+---
+
+Miłego tworzenia wiki! 😊
