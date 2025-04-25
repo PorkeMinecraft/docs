@@ -1,5 +1,15 @@
 ---
 sidebar_position: 12
+description: Odbieraj codzienne nagrody na serwerze Minecube! Zgarnij cenne przedmioty, walutę, klucze i niespodzianki za regularne logowanie się do gry.
+keywords:
+  - codzienne nagrody
+  - daily
+  - nagrody
+  - klucze
+  - waluta
+  - przedmioty
+  - motywacja
+  - EarthSMP
 ---
 
 # 🎁 Codzienne Nagrody

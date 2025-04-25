@@ -1,5 +1,15 @@
 ---
 sidebar_position: 1
+description: Dowiedz się, jak tworzyć i zarządzać własnym państwem na serwerze EarthSMP! Naucz się komend, dodawania członków, tworzenia sojuszy i wypowiadania wojen.
+keywords:
+  - państwa
+  - lands
+  - sojusze
+  - wojna
+  - komendy
+  - ochrona terenu
+  - zarządzanie
+  - EarthSMP
 ---
 
 # 🌍 Państwa

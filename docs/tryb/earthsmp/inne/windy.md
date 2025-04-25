@@ -1,5 +1,9 @@
 ---
 sidebar_position: 1
+description: Dowiedz się, jak stworzyć prostą windę na serwerze EarthSMP z wykorzystaniem bloków redstone i żelaza. Prosty mechanizm, szybki transport!
+keywords:
+  - winda
+  - windy
 ---
 
 # 🛗 Windy

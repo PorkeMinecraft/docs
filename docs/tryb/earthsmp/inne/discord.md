@@ -1,5 +1,14 @@
 ---
 sidebar_position: 2
+description: Połącz swoje konto Minecraft z Discordem na Minecube, aby otrzymywać powiadomienia, role i nagrody! Zobacz, jak szybko i łatwo przejść proces linkowania.
+keywords:
+  - discord
+  - połączenie
+  - konto minecraft
+  - linkowanie konta
+  - Minecube
+  - EarthSMP
+  - instrukcja
 ---
 
 # ⛓️‍💥 Połączenie Discord

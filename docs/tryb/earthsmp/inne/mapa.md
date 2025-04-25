@@ -1,5 +1,14 @@
 ---
 sidebar_position: 3
+description: Dowiedz się, jak ukryć lub pokazać swoją pozycję na mapie online serwera EarthSMP. Prosta komenda i pełna kontrola nad widocznością!
+keywords:
+  - mapa
+  - ukrycie
+  - /map hide
+  - /map show
+  - EarthSMP
+  - widoczność
+  - mapa online
 ---
 
 # 🗺️ Ukrycie na Mapie
