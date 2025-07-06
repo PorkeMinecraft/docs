@@ -1,41 +1,69 @@
-# Website
+# MineCube Wiki
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Witamy w oficjalnym repozytorium wiki serwera **MineCube**!
 
-### Installation
+Ta strona została zbudowana przy użyciu [Docusaurus](https://docusaurus.io/).
 
-```
-$ yarn
-```
+## 📦 Wymagania
 
-### Local Development
+- [**Node.js**](https://nodejs.org) w wersji `>=18.0`
+- **pnpm** jako menedżer pakietów
 
-```
-$ yarn start
-```
+Jeśli nie masz jeszcze pnpm, zainstaluj go globalnie:
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
+```bash
+npm install -g pnpm
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+---
 
-### Deployment
+## 🔧 Instalacja zależności
 
-Using SSH:
+Zainstaluj wszystkie potrzebne pakiety:
 
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
+```bash
+pnpm install
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+---
+
+## 🚀 Uruchamianie lokalnego serwera deweloperskiego
+
+W celu podglądu strony na żywo:
+
+```bash
+pnpm run start
+```
+
+Po chwili strona otworzy się automatycznie w Twojej przeglądarce.
+Wprowadzone zmiany w plikach będą widoczne natychmiast.
+
+---
+
+## 🧹 Czyszczenie cache
+
+W przypadku problemów (np. błędów Webpacka) wyczyść cache:
+
+```bash
+pnpm run clear
+```
+
+---
+
+## 💡 Wskazówki
+
+- Pliki wiki znajdują się w katalogu `docs/`.
+- Najczęściej używaną komendą będzie `pnpm run start`, aby na bieżąco widzieć zmiany.
+- W razie problemów technicznych pomocne będzie polecenie `pnpm run clear`.
+
+---
+
+## 📚 Dla początkujących
+
+Jeżeli nigdy wcześniej nie korzystałeś z GitHub'a, terminala, a ogólnie nie wiesz, co tu się dzieje, ale chcesz pomóc w rozwoju naszego wiki — zapoznaj się z przewodnikiem:
+
+👉 _Wkrótce dostępne..._
+
+---
+
+**Miłego tworzenia i rozwijania naszej wiki! 🚀✨**

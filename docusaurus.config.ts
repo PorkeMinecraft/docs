@@ -37,14 +37,12 @@ const config: Config = {
           routeBasePath: "/",
           sidebarPath: "./sidebars.ts",
           editUrl: "https://github.com/minecubepl/docs/tree/main/",
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
         },
         blog: false,
         theme: {
           customCss: "./src/css/custom.css",
-        },
-        gtag: {
-          trackingID: "G-HY8DZVMS5J",
-          anonymizeIP: true,
         },
       } satisfies Preset.Options,
     ],
@@ -67,12 +65,12 @@ const config: Config = {
         //{ to: "/blog", label: "Blog", position: "left" },
         {
           href: "https://mapa.minecube.pl/",
-          label: "Mapa EarthSMP 🗺️",
+          label: "🗺️ Mapa EarthSMP",
           position: "right",
         },
         {
           href: "https://dc.minecube.pl/",
-          label: "Discord",
+          label: "🎙️ Discord",
           position: "right",
         },
       ],
@@ -80,7 +78,7 @@ const config: Config = {
     footer: {
       style: "dark",
       links: [],
-      copyright: `Copyright © ${new Date().getFullYear()} MineCube. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} MineCube.<div>This website is not an official Minecraft site and is not affiliated with Mojang Studios or Microsoft. All product and company names are trademarks or registered trademarks of their respective owners. The use of these names does not indicate any official connection or endorsement.</div>`,
     },
     prism: {
       theme: prismThemes.github,
