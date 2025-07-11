@@ -40,7 +40,16 @@ const config: Config = {
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
-        blog: false,
+        blog: {
+          showReadingTime: false,
+          feedOptions: {
+            type: ['rss', 'atom'],
+            xslt: true,
+          },
+          onInlineTags: 'warn',
+          onInlineAuthors: 'warn',
+          onUntruncatedBlogPosts: 'warn',
+        },
         theme: {
           customCss: "./src/css/custom.css",
         },
@@ -62,7 +71,7 @@ const config: Config = {
           position: "left",
           label: "Wikipedia Serwerowa",
         },
-        //{ to: "/blog", label: "Blog", position: "left" },
+        { to: "blog", label: "Zmiany", position: "left" },
         {
           href: "https://mapa.minecube.pl/",
           label: "🗺️ Mapa EarthSMP",
