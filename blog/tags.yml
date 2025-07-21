@@ -2,3 +2,7 @@ earthsmp:
   label: EarthSMP
   permalink: /earthsmp
   description: Zmiana dotyczy EarthSMP
+wiki:
+  label: Wiki
+  permalink: /wiki
+  description: Zmiana dotyczy Wiki
