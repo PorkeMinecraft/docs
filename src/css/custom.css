@@ -21,6 +21,7 @@
 
   --docusaurus-highlighted-code-line-bg: rgba(0, 127, 255, 0.08);
   --ifm-transition-fast: 0.2s ease-in-out;
+  --ifm-code-font-size: 95%;
 }
 
 html {
@@ -49,30 +50,6 @@ body {
 [data-theme="dark"] body {
   background-color: #1b1b1d !important;
   color: #e5e7eb;
-}
-
-/* PRZYCISKI */
-button,
-.button {
-  all: unset;
-  font-family: "Montserrat", sans-serif;
-  font-weight: 600;
-  font-size: 1rem;
-  padding: 0.5rem 1rem;
-  border-radius: var(--ifm-button-border-radius);
-  cursor: pointer;
-  transition: background-color 0.2s ease;
-}
-
-button:hover,
-.button:hover {
-  background-color: rgba(0, 127, 255, 0.08);
-}
-
-button:focus,
-.button:focus {
-  outline: 2px solid var(--ifm-color-primary);
-  outline-offset: 2px;
 }
 
 /* NAVBAR */
