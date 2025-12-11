@@ -56,7 +56,7 @@ Liczba obok nazwy moba (np. `5%`) oznacza szansę na wypadnięcie pluszaka po je
 * **Wieśniak** `5%`
 * **Wielbłąd** `10%`
 * **Żaba** (Umiarkowana, Ciepła, Zimna) `1%`
-* **Żłów** `5%`
+* **Żółw** `5%`
 
 ---
 
